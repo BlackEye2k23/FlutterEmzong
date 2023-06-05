@@ -1,0 +1,3192 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 6,
+    "credits_remaining": 94,
+    "credits_used_this_request": 2
+  },
+  "request_parameters": {
+    "type": "search",
+    "amazon_domain": "amazon.com",
+    "search_term": "usb",
+    "max_page": "2"
+  },
+  "request_metadata": {
+    "created_at": "2023-05-30T14:04:19.350Z",
+    "processed_at": "2023-05-30T14:05:05.887Z",
+    "total_time_taken": 46.54,
+    "pages": [
+      {
+        "created_at": "2023-05-30T14:04:19.350Z",
+        "processed_at": "2023-05-30T14:04:38.426Z",
+        "total_time_taken": 19.08,
+        "page": 1,
+        "amazon_url": "https://www.amazon.com/s/?k=usb&ref=nb_sb_noss_2"
+      },
+      {
+        "created_at": "2023-05-30T14:04:38.426Z",
+        "processed_at": "2023-05-30T14:05:05.887Z",
+        "total_time_taken": 27.46,
+        "page": 2,
+        "amazon_url": "https://www.amazon.com/s/?k=usb&ref=nb_sb_noss_2&page=2"
+      }
+    ]
+  },
+  "search_results": [
+    {
+      "position": 1,
+      "title": "Lucktiger 1TB USB Flash Drive | Waterproof Large Data Storage USB Memory Stick | High Speed Portable Jump Drive Pen Drive Come with Keychain Flash Drive,Thumb Drive",
+      "asin": "B0BPXVD6SC",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A09448842KYYR3KED49IX&qualifier=1685455475&id=8254948828432649&widgetName=sp_atf&url=%2FLucktiger-Waterproof-Storage-Portable-Keychain%2Fdp%2FB0BPXVD6SC%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dusb%26qid%3D1685455475%26sr%3D8-1-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/510MONO6wvL._AC_UY218_.jpg",
+      "is_prime": true,
+      "rating": 1,
+      "ratings_total": 1,
+      "sponsored": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 25.99,
+          "currency": "USD",
+          "raw": "$25.99",
+          "asin": "B0BPXVD6SC",
+          "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A09448842KYYR3KED49IX&qualifier=1685455475&id=8254948828432649&widgetName=sp_atf&url=%2FLucktiger-Waterproof-Storage-Portable-Keychain%2Fdp%2FB0BPXVD6SC%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dusb%26qid%3D1685455475%26sr%3D8-1-spons%26psc%3D1"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 25.99,
+        "currency": "USD",
+        "raw": "$25.99",
+        "asin": "B0BPXVD6SC",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A09448842KYYR3KED49IX&qualifier=1685455475&id=8254948828432649&widgetName=sp_atf&url=%2FLucktiger-Waterproof-Storage-Portable-Keychain%2Fdp%2FB0BPXVD6SC%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dusb%26qid%3D1685455475%26sr%3D8-1-spons%26psc%3D1"
+      },
+      "page": 1,
+      "position_overall": 1
+    },
+    {
+      "position": 2,
+      "title": "USB C Flash Drive 1TB Compatible MacBook iPad pro iPad mini6 and PC (256GB, Pink)",
+      "asin": "B0C2NDMHKL",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A08861491XYY6J0IYHT2E&qualifier=1685455475&id=8254948828432649&widgetName=sp_atf&url=%2FFlash-Drive-Compatible-MacBook-mini6%2Fdp%2FB0C2NDMHKL%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dusb%26qid%3D1685455475%26sr%3D8-2-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61y4vNz-vzL._AC_UY218_.jpg",
+      "is_prime": true,
+      "rating": 3.8,
+      "ratings_total": 1123,
+      "sponsored": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 22.92,
+          "currency": "USD",
+          "raw": "Join Prime to buy this item at $22.92"
+        },
+        {
+          "symbol": "$",
+          "value": 26.96,
+          "currency": "USD",
+          "raw": "$26.96"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 22.92,
+        "currency": "USD",
+        "raw": "Join Prime to buy this item at $22.92"
+      },
+      "page": 1,
+      "position_overall": 2
+    },
+    {
+      "position": 3,
+      "title": "SanDisk 128GB Ultra Flair USB 3.0 Flash Drive - SDCZ73-128G-G46",
+      "asin": "B015CH1PJU",
+      "link": "https://www.amazon.com/SanDisk-Ultra-Flair-128GB-Flash/dp/B015CH1PJU/ref=sr_1_3?keywords=usb&qid=1685455475&sr=8-3",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/41IhYxnGIvL._AC_UY218_.jpg",
+      "amazons_choice": {
+        "link": "https://www.amazon.com/SanDisk-Ultra-Flair-128GB-Flash/dp/B015CH1PJU/ref=ice_ac_b_dpb?keywords=usb&qid=1685455475&sr=8-3",
+        "keywords": "usb"
+      },
+      "is_prime": true,
+      "rating": 4.7,
+      "ratings_total": 156296,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 12.29,
+          "currency": "USD",
+          "raw": "$12.29",
+          "name": "Primary",
+          "is_primary": true
+        },
+        {
+          "symbol": "$",
+          "value": 12.99,
+          "currency": "USD",
+          "raw": "$12.99",
+          "name": "Original",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 12.29,
+        "currency": "USD",
+        "raw": "$12.29",
+        "name": "Primary",
+        "is_primary": true
+      },
+      "page": 1,
+      "position_overall": 3
+    },
+    {
+      "position": 4,
+      "title": "SamData 32GB USB Flash Drives 2 Pack 32GB Thumb Drives Memory Stick Jump Drive with LED Light for Storage and Backup (2 Colors: Black Blue)",
+      "asin": "B082ZGHXK8",
+      "link": "https://www.amazon.com/SamData-Drives-Memory-Storage-Backup/dp/B082ZGHXK8/ref=sr_1_4?keywords=usb&qid=1685455475&sr=8-4",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71ULtE83xWL._AC_UY218_.jpg",
+      "unit_price": "$5.00/Count",
+      "is_prime": true,
+      "rating": 4.5,
+      "ratings_total": 25828,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 9.99,
+          "currency": "USD",
+          "raw": "$9.99",
+          "asin": "B082ZGHXK8",
+          "link": "https://www.amazon.com/SamData-Drives-Memory-Storage-Backup/dp/B082ZGHXK8/ref=sr_1_4?keywords=usb&qid=1685455475&sr=8-4"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 9.99,
+        "currency": "USD",
+        "raw": "$9.99",
+        "asin": "B082ZGHXK8",
+        "link": "https://www.amazon.com/SamData-Drives-Memory-Storage-Backup/dp/B082ZGHXK8/ref=sr_1_4?keywords=usb&qid=1685455475&sr=8-4"
+      },
+      "page": 1,
+      "position_overall": 4
+    },
+    {
+      "position": 5,
+      "title": "Amazon Basics 128GB Ultra Fast USB 3.1 Flash Drive 1 pack",
+      "asin": "B0B6148YKN",
+      "link": "https://www.amazon.com/Amazon-Basics-128GB-Ultra-Flash/dp/B0B6148YKN/ref=sr_1_5?keywords=usb&qid=1685455475&sr=8-5",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71RhxfozxvL._AC_UY218_.jpg",
+      "is_prime": true,
+      "rating": 4.5,
+      "ratings_total": 2429,
+      "is_amazon_brand": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 15.68,
+          "currency": "USD",
+          "raw": "$15.68",
+          "asin": "B0B6148YKN",
+          "link": "https://www.amazon.com/Amazon-Basics-128GB-Ultra-Flash/dp/B0B6148YKN/ref=sr_1_5?keywords=usb&qid=1685455475&sr=8-5"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 15.68,
+        "currency": "USD",
+        "raw": "$15.68",
+        "asin": "B0B6148YKN",
+        "link": "https://www.amazon.com/Amazon-Basics-128GB-Ultra-Flash/dp/B0B6148YKN/ref=sr_1_5?keywords=usb&qid=1685455475&sr=8-5"
+      },
+      "page": 1,
+      "position_overall": 5
+    },
+    {
+      "position": 6,
+      "title": "USB Drive KOOTION 20pcs 4GB USB Flash Drive 4 GB Flash Drives Thumb Drive Jump Drive Memory Stick Swivel Pen Drive, Black",
+      "asin": "B07J23YQLC",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg1_1?ie=UTF8&adId=A0985964W0IH76EEFH11&qualifier=1685455475&id=1374030247521130&widgetName=sp_search_thematic&url=%2FKootion-20pcs-Drives-Memory-Swivel%2Fdp%2FB07J23YQLC%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.b0a022f0-19e5-4271-a529-b50d038de8ac%253Aamzn1.sym.b0a022f0-19e5-4271-a529-b50d038de8ac%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB07J23YQLC%26pd_rd_r%3D94394392-bf8e-4a74-baa8-1095c32c12c2%26pd_rd_w%3DlKdIB%26pd_rd_wg%3D7LccG%26pf_rd_p%3Db0a022f0-19e5-4271-a529-b50d038de8ac%26pf_rd_r%3DJNB7S4QXWF4ZR2VE1ANN%26qid%3D1685455475%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-1-7c348c05-82b5-4c97-b082-fba05c1a06c7-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61VHlnEV6WL._AC_UL320_.jpg",
+      "is_prime": true,
+      "rating": 4.5,
+      "ratings_total": 9015,
+      "is_carousel": true,
+      "carousel": {
+        "id": "loom-desktop-inline-slot_sptw-cfv-exact-match-desktop-na-t2"
+      },
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 44.99,
+          "currency": "USD",
+          "raw": "Join Prime to buy this item at $44.99",
+          "name": "$49.99"
+        },
+        {
+          "symbol": "$",
+          "value": 49.99,
+          "currency": "USD",
+          "raw": "$49.99",
+          "name": "$49.99"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 44.99,
+        "currency": "USD",
+        "raw": "Join Prime to buy this item at $44.99",
+        "name": "$49.99"
+      },
+      "page": 1,
+      "position_overall": 6
+    },
+    {
+      "position": 7,
+      "title": "KOOTION 10 X 16 GB USB Flash Drive 16 gb Flash Drive Thumb Drive USB Drive Memory Stick Jump Drive Keychain Design Black",
+      "asin": "B016UGNFCC",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg1_2?ie=UTF8&adId=A069151614E7TZXE9IUA9&qualifier=1685455475&id=1374030247521130&widgetName=sp_search_thematic&url=%2FKootion-Flash-Memory-Keychain-Design%2Fdp%2FB016UGNFCC%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.b0a022f0-19e5-4271-a529-b50d038de8ac%253Aamzn1.sym.b0a022f0-19e5-4271-a529-b50d038de8ac%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB016UGNFCC%26pd_rd_r%3D94394392-bf8e-4a74-baa8-1095c32c12c2%26pd_rd_w%3DlKdIB%26pd_rd_wg%3D7LccG%26pf_rd_p%3Db0a022f0-19e5-4271-a529-b50d038de8ac%26pf_rd_r%3DJNB7S4QXWF4ZR2VE1ANN%26qid%3D1685455475%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-2-7c348c05-82b5-4c97-b082-fba05c1a06c7-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/612uXay-9oL._AC_UL320_.jpg",
+      "is_prime": true,
+      "rating": 4.6,
+      "ratings_total": 2102,
+      "is_carousel": true,
+      "carousel": {
+        "id": "loom-desktop-inline-slot_sptw-cfv-exact-match-desktop-na-t2"
+      },
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 23.99,
+          "currency": "USD",
+          "raw": "Join Prime to buy this item at $23.99",
+          "name": "$28.99"
+        },
+        {
+          "symbol": "$",
+          "value": 28.99,
+          "currency": "USD",
+          "raw": "$28.99",
+          "name": "$28.99"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 23.99,
+        "currency": "USD",
+        "raw": "Join Prime to buy this item at $23.99",
+        "name": "$28.99"
+      },
+      "page": 1,
+      "position_overall": 7
+    },
+    {
+      "position": 8,
+      "title": "Aiibe 10 Pieces 32GB USB Flash Drive 10 Pack USB 2.0 Memory Stick Thumbdrives (Mix Colors : Black Blue Red Green Orange White Yellow Pink Purple Silver)",
+      "asin": "B07DFYZ8FF",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg1_3?ie=UTF8&adId=A04763353NLC7SEFBZUA1&qualifier=1685455475&id=1374030247521130&widgetName=sp_search_thematic&url=%2FAiibe-Pieces-Memory-Thumbdrives-Colors%2Fdp%2FB07DFYZ8FF%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.b0a022f0-19e5-4271-a529-b50d038de8ac%253Aamzn1.sym.b0a022f0-19e5-4271-a529-b50d038de8ac%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB07DFYZ8FF%26pd_rd_r%3D94394392-bf8e-4a74-baa8-1095c32c12c2%26pd_rd_w%3DlKdIB%26pd_rd_wg%3D7LccG%26pf_rd_p%3Db0a022f0-19e5-4271-a529-b50d038de8ac%26pf_rd_r%3DJNB7S4QXWF4ZR2VE1ANN%26qid%3D1685455475%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-3-7c348c05-82b5-4c97-b082-fba05c1a06c7-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71kBggJ6-uL._AC_UL320_.jpg",
+      "coupon": {
+        "badge_text": "Save 5%",
+        "text": "with coupon"
+      },
+      "unit_price": "$3.20/Count",
+      "is_prime": true,
+      "rating": 4.6,
+      "ratings_total": 6018,
+      "is_carousel": true,
+      "carousel": {
+        "id": "loom-desktop-inline-slot_sptw-cfv-exact-match-desktop-na-t2"
+      },
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 31.99,
+          "currency": "USD",
+          "raw": "$31.99",
+          "name": "$31.99",
+          "asin": "B07DFYZ8FF",
+          "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg1_3?ie=UTF8&adId=A04763353NLC7SEFBZUA1&qualifier=1685455475&id=1374030247521130&widgetName=sp_search_thematic&url=%2FAiibe-Pieces-Memory-Thumbdrives-Colors%2Fdp%2FB07DFYZ8FF%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.b0a022f0-19e5-4271-a529-b50d038de8ac%253Aamzn1.sym.b0a022f0-19e5-4271-a529-b50d038de8ac%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB07DFYZ8FF%26pd_rd_r%3D94394392-bf8e-4a74-baa8-1095c32c12c2%26pd_rd_w%3DlKdIB%26pd_rd_wg%3D7LccG%26pf_rd_p%3Db0a022f0-19e5-4271-a529-b50d038de8ac%26pf_rd_r%3DJNB7S4QXWF4ZR2VE1ANN%26qid%3D1685455475%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-3-7c348c05-82b5-4c97-b082-fba05c1a06c7-spons%26psc%3D1"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 31.99,
+        "currency": "USD",
+        "raw": "$31.99",
+        "name": "$31.99",
+        "asin": "B07DFYZ8FF",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg1_3?ie=UTF8&adId=A04763353NLC7SEFBZUA1&qualifier=1685455475&id=1374030247521130&widgetName=sp_search_thematic&url=%2FAiibe-Pieces-Memory-Thumbdrives-Colors%2Fdp%2FB07DFYZ8FF%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.b0a022f0-19e5-4271-a529-b50d038de8ac%253Aamzn1.sym.b0a022f0-19e5-4271-a529-b50d038de8ac%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB07DFYZ8FF%26pd_rd_r%3D94394392-bf8e-4a74-baa8-1095c32c12c2%26pd_rd_w%3DlKdIB%26pd_rd_wg%3D7LccG%26pf_rd_p%3Db0a022f0-19e5-4271-a529-b50d038de8ac%26pf_rd_r%3DJNB7S4QXWF4ZR2VE1ANN%26qid%3D1685455475%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-3-7c348c05-82b5-4c97-b082-fba05c1a06c7-spons%26psc%3D1"
+      },
+      "page": 1,
+      "position_overall": 8
+    },
+    {
+      "position": 9,
+      "title": "Aiibe 20pcs 8GB Flash Drives Bulk 8GB USB Flash Drive 20 Pack 8GB USB Sticks USB 2.0 Thumb Drive - Black",
+      "asin": "B07PNZV4T7",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg1_4?ie=UTF8&adId=A049316028GK7OG9ONTRY&qualifier=1685455475&id=1374030247521130&widgetName=sp_search_thematic&url=%2FAiibe-20pcs-Flash-Drives-Sticks%2Fdp%2FB07PNZV4T7%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.b0a022f0-19e5-4271-a529-b50d038de8ac%253Aamzn1.sym.b0a022f0-19e5-4271-a529-b50d038de8ac%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB07PNZV4T7%26pd_rd_r%3D94394392-bf8e-4a74-baa8-1095c32c12c2%26pd_rd_w%3DlKdIB%26pd_rd_wg%3D7LccG%26pf_rd_p%3Db0a022f0-19e5-4271-a529-b50d038de8ac%26pf_rd_r%3DJNB7S4QXWF4ZR2VE1ANN%26qid%3D1685455475%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-4-7c348c05-82b5-4c97-b082-fba05c1a06c7-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71uC1lKPGKL._AC_UL320_.jpg",
+      "unit_price": "$2.70/Count",
+      "is_prime": true,
+      "rating": 4.6,
+      "ratings_total": 1597,
+      "is_carousel": true,
+      "carousel": {
+        "id": "loom-desktop-inline-slot_sptw-cfv-exact-match-desktop-na-t2"
+      },
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 47.48,
+          "currency": "USD",
+          "raw": "Join Prime to buy this item at $47.48",
+          "name": "$53.99"
+        },
+        {
+          "symbol": "$",
+          "value": 53.99,
+          "currency": "USD",
+          "raw": "$53.99",
+          "name": "$53.99"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 47.48,
+        "currency": "USD",
+        "raw": "Join Prime to buy this item at $47.48",
+        "name": "$53.99"
+      },
+      "page": 1,
+      "position_overall": 9
+    },
+    {
+      "position": 10,
+      "title": "16GB Flash Drive 10 Pack USB Flash Drive 16 gb KEXIN Thumb Drive Memory Stick Zip Drive USB 2.0, 5 Colors (Black, Blue, Green, White, Red)",
+      "asin": "B07C5P6K6V",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg1_5?ie=UTF8&adId=A02495511ZXFGXTX0BMPK&qualifier=1685455475&id=1374030247521130&widgetName=sp_search_thematic&url=%2FKEXIN-Flash-Drive-Memory-Colors%2Fdp%2FB07C5P6K6V%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.b0a022f0-19e5-4271-a529-b50d038de8ac%253Aamzn1.sym.b0a022f0-19e5-4271-a529-b50d038de8ac%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB07C5P6K6V%26pd_rd_r%3D94394392-bf8e-4a74-baa8-1095c32c12c2%26pd_rd_w%3DlKdIB%26pd_rd_wg%3D7LccG%26pf_rd_p%3Db0a022f0-19e5-4271-a529-b50d038de8ac%26pf_rd_r%3DJNB7S4QXWF4ZR2VE1ANN%26qid%3D1685455475%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-5-7c348c05-82b5-4c97-b082-fba05c1a06c7-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61jFbOnmejL._AC_UL320_.jpg",
+      "unit_price": "$2.90/Count",
+      "is_prime": true,
+      "rating": 4.6,
+      "ratings_total": 2460,
+      "is_carousel": true,
+      "carousel": {
+        "id": "loom-desktop-inline-slot_sptw-cfv-exact-match-desktop-na-t2"
+      },
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 25.99,
+          "currency": "USD",
+          "raw": "Join Prime to buy this item at $25.99",
+          "name": "$28.99"
+        },
+        {
+          "symbol": "$",
+          "value": 28.99,
+          "currency": "USD",
+          "raw": "$28.99",
+          "name": "$28.99"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 25.99,
+        "currency": "USD",
+        "raw": "Join Prime to buy this item at $25.99",
+        "name": "$28.99"
+      },
+      "page": 1,
+      "position_overall": 10
+    },
+    {
+      "position": 11,
+      "title": "SanDisk 128GB Ultra USB 3.0 Flash Drive - SDCZ48-128G-GAM46",
+      "asin": "B081QSJNRJ",
+      "link": "https://www.amazon.com/SanDisk-128GB-Ultra-Flash-Drive/dp/B081QSJNRJ/ref=sr_1_6?keywords=usb&qid=1685455475&sr=8-6",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61TuPtmTScL._AC_UY218_.jpg",
+      "is_prime": true,
+      "rating": 4.7,
+      "ratings_total": 135246,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 11.99,
+          "currency": "USD",
+          "raw": "$11.99",
+          "name": "Primary",
+          "is_primary": true
+        },
+        {
+          "symbol": "$",
+          "value": 19.99,
+          "currency": "USD",
+          "raw": "$19.99",
+          "name": "Original",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 11.99,
+        "currency": "USD",
+        "raw": "$11.99",
+        "name": "Primary",
+        "is_primary": true
+      },
+      "page": 1,
+      "position_overall": 11
+    },
+    {
+      "position": 12,
+      "title": "BYEASY USB Hub,USB Splitter for Laptop,Multiport USB 3.0 Hub,Multi USB Port Expander,Fast Data Transfer 4 Port USB Hub Compatible with Windows PC, Mac, Printer, Mobile HDD",
+      "asin": "B07FH7XJCD",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A0540011GB8BA020F54B&qualifier=1685455475&id=8254948828432649&widgetName=sp_mtf&url=%2FBYEASY-Portable-Applicable-MacBook-Notebook%2Fdp%2FB07FH7XJCD%2Fref%3Dsr_1_7_sspa%3Fkeywords%3Dusb%26qid%3D1685455475%26sr%3D8-7-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61XHVvynw4L._AC_UY218_.jpg",
+      "coupon": {
+        "badge_text": "Save 10%",
+        "text": "with coupon"
+      },
+      "is_prime": true,
+      "rating": 4.6,
+      "ratings_total": 20570,
+      "sponsored": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 13.99,
+          "currency": "USD",
+          "raw": "$13.99",
+          "name": "Primary",
+          "is_primary": true
+        },
+        {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99",
+          "name": "Original",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 13.99,
+        "currency": "USD",
+        "raw": "$13.99",
+        "name": "Primary",
+        "is_primary": true
+      },
+      "page": 1,
+      "position_overall": 12
+    },
+    {
+      "position": 13,
+      "title": "RAOYI 5 Pack 64GB USB Flash Drive, USB 2.0 Memory Stick Thumb Drives Jump Drive Pen Drive for PC Laptop Computer - 64G Multipack",
+      "asin": "B09DSMYXWL",
+      "link": "https://www.amazon.com/RAOYI-Memory-Drives-Laptop-Computer/dp/B09DSMYXWL/ref=sr_1_8?keywords=usb&qid=1685455475&sr=8-8",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/41rwLGJ6TIL._AC_UY218_.jpg",
+      "coupon": {
+        "badge_text": "Save 10%",
+        "text": "with coupon"
+      },
+      "unit_price": "$4.60/Count",
+      "is_prime": true,
+      "rating": 4.4,
+      "ratings_total": 2680,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 22.99,
+          "currency": "USD",
+          "raw": "$22.99",
+          "asin": "B09DSMYXWL",
+          "link": "https://www.amazon.com/RAOYI-Memory-Drives-Laptop-Computer/dp/B09DSMYXWL/ref=sr_1_8?keywords=usb&qid=1685455475&sr=8-8"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 22.99,
+        "currency": "USD",
+        "raw": "$22.99",
+        "asin": "B09DSMYXWL",
+        "link": "https://www.amazon.com/RAOYI-Memory-Drives-Laptop-Computer/dp/B09DSMYXWL/ref=sr_1_8?keywords=usb&qid=1685455475&sr=8-8"
+      },
+      "page": 1,
+      "position_overall": 13
+    },
+    {
+      "position": 14,
+      "title": "PNY 128GB Turbo Attache 3 USB 3.0 Flash Drive, GREY",
+      "asin": "B00FE2N1WS",
+      "link": "https://www.amazon.com/PNY-Turbo-128GB-Flash-Drive/dp/B00FE2N1WS/ref=sr_1_9?keywords=usb&qid=1685455475&sr=8-9",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/51oxe8cyRxL._AC_UY218_.jpg",
+      "is_prime": true,
+      "rating": 4.6,
+      "ratings_total": 44046,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 10.96,
+          "currency": "USD",
+          "raw": "$10.96",
+          "name": "Primary",
+          "is_primary": true
+        },
+        {
+          "symbol": "$",
+          "value": 12.99,
+          "currency": "USD",
+          "raw": "$12.99",
+          "name": "Original",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 10.96,
+        "currency": "USD",
+        "raw": "$10.96",
+        "name": "Primary",
+        "is_primary": true
+      },
+      "page": 1,
+      "position_overall": 14
+    },
+    {
+      "position": 15,
+      "title": "Kingston DataTraveler Max 256GB USB-C Flash Drive with USB 3.2 Gen 2 Performance",
+      "asin": "B09DVPH8NQ",
+      "link": "https://www.amazon.com/Kingston-DataTraveler-256GB-USB-C-Performance/dp/B09DVPH8NQ/ref=sr_1_10?keywords=usb&qid=1685455475&sr=8-10",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61VhmoSYbyL._AC_UY218_.jpg",
+      "is_prime": true,
+      "rating": 4.2,
+      "ratings_total": 429,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 30.88,
+          "currency": "USD",
+          "raw": "$30.88",
+          "name": "Primary",
+          "is_primary": true
+        },
+        {
+          "symbol": "$",
+          "value": 37.99,
+          "currency": "USD",
+          "raw": "$37.99",
+          "name": "Original",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 30.88,
+        "currency": "USD",
+        "raw": "$30.88",
+        "name": "Primary",
+        "is_primary": true
+      },
+      "page": 1,
+      "position_overall": 15
+    },
+    {
+      "position": 16,
+      "title": "SAMSUNG FIT Plus 3.1 USB Flash Drive, 128GB, 400MB/s, Plug In and Stay, Storage Expansion for Laptop, Tablet, Smart TV, Car Audio System, Gaming Console, MUF-128AB/AM",
+      "asin": "B07D7PDLXC",
+      "link": "https://www.amazon.com/Samsung-MUF-128AB-AM-Plus-128GB/dp/B07D7PDLXC/ref=sr_1_11?keywords=usb&qid=1685455475&sr=8-11",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/716RHDBFzXL._AC_UY218_.jpg",
+      "deal": {
+        "link": "https://www.amazon.com/gp/goldbox/",
+        "badge_text": "Limited time deal"
+      },
+      "is_prime": true,
+      "rating": 4.7,
+      "ratings_total": 29116,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 14.99,
+          "currency": "USD",
+          "raw": "$14.99",
+          "name": "Limited time deal",
+          "is_primary": true
+        },
+        {
+          "symbol": "$",
+          "value": 44.99,
+          "currency": "USD",
+          "raw": "$44.99",
+          "name": "Limited time deal",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 14.99,
+        "currency": "USD",
+        "raw": "$14.99",
+        "name": "Limited time deal",
+        "is_primary": true
+      },
+      "page": 1,
+      "position_overall": 16
+    },
+    {
+      "position": 17,
+      "title": "XINHUAYI 1000GB USB Thumb Drive for Phone, Dual USB3.1 to USB C Flash Drives 1TB, High-Speed Transfer Type c USB Drive for iPad Pro, Mac pro, Samsung Galaxy, PC.(Blue 1TB)",
+      "asin": "B0C2ZLTZZ1",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A027124311Q5DO5PRAILS&qualifier=1685455475&id=8254948828432649&widgetName=sp_mtf&url=%2FXINHUAYI-1000GB-High-Speed-Transfer-Samsung%2Fdp%2FB0C2ZLTZZ1%2Fref%3Dsr_1_12_sspa%3Fkeywords%3Dusb%26qid%3D1685455475%26sr%3D8-12-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61+8z+xWa-L._AC_UY218_.jpg",
+      "coupon": {
+        "badge_text": "Save 11%",
+        "text": "with coupon"
+      },
+      "is_prime": true,
+      "rating": 3.7,
+      "ratings_total": 99,
+      "sponsored": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 21.99,
+          "currency": "USD",
+          "raw": "$21.99",
+          "asin": "B0C2ZLTZZ1",
+          "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A027124311Q5DO5PRAILS&qualifier=1685455475&id=8254948828432649&widgetName=sp_mtf&url=%2FXINHUAYI-1000GB-High-Speed-Transfer-Samsung%2Fdp%2FB0C2ZLTZZ1%2Fref%3Dsr_1_12_sspa%3Fkeywords%3Dusb%26qid%3D1685455475%26sr%3D8-12-spons%26psc%3D1"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 21.99,
+        "currency": "USD",
+        "raw": "$21.99",
+        "asin": "B0C2ZLTZZ1",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A027124311Q5DO5PRAILS&qualifier=1685455475&id=8254948828432649&widgetName=sp_mtf&url=%2FXINHUAYI-1000GB-High-Speed-Transfer-Samsung%2Fdp%2FB0C2ZLTZZ1%2Fref%3Dsr_1_12_sspa%3Fkeywords%3Dusb%26qid%3D1685455475%26sr%3D8-12-spons%26psc%3D1"
+      },
+      "page": 1,
+      "position_overall": 17
+    },
+    {
+      "position": 18,
+      "title": "Silicon Power 2 Pack 128GB USB 3.0/3.1 Gen1 USB Flash Drive Blaze B02",
+      "asin": "B07Q5HMXTN",
+      "link": "https://www.amazon.com/Silicon-Power-128GB-Flash-Drive/dp/B07Q5HMXTN/ref=sr_1_13?keywords=usb&qid=1685455475&sr=8-13",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71wrMPm1umL._AC_UY218_.jpg",
+      "unit_price": "$5.58/Count",
+      "is_prime": true,
+      "rating": 4.5,
+      "ratings_total": 5379,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 11.15,
+          "currency": "USD",
+          "raw": "$11.15",
+          "name": "Primary",
+          "is_primary": true
+        },
+        {
+          "symbol": "$",
+          "value": 12.99,
+          "currency": "USD",
+          "raw": "$12.99",
+          "name": "Original",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 11.15,
+        "currency": "USD",
+        "raw": "$11.15",
+        "name": "Primary",
+        "is_primary": true
+      },
+      "page": 1,
+      "position_overall": 18
+    },
+    {
+      "position": 19,
+      "title": "SanDisk 32GB Cruzer Glide USB 2.0 Flash Drive - SDCZ60-032G-B35, Red",
+      "asin": "B007YX9O9E",
+      "link": "https://www.amazon.com/SanDisk-Cruzer-Glide-Drive-SDCZ60-032G-B35/dp/B007YX9O9E/ref=sr_1_14?keywords=usb&qid=1685455475&sr=8-14",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/711aQ7oxvhL._AC_UY218_.jpg",
+      "is_prime": true,
+      "rating": 4.7,
+      "ratings_total": 27429,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 6.19,
+          "currency": "USD",
+          "raw": "$6.19",
+          "name": "Primary",
+          "is_primary": true
+        },
+        {
+          "symbol": "$",
+          "value": 17.99,
+          "currency": "USD",
+          "raw": "$17.99",
+          "name": "Original",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 6.19,
+        "currency": "USD",
+        "raw": "$6.19",
+        "name": "Primary",
+        "is_primary": true
+      },
+      "page": 1,
+      "position_overall": 19
+    },
+    {
+      "position": 20,
+      "title": "Kingston DataTraveler Kyson 32GB High Performance USB 3.2 Metal Flash Drive | Speeds up to 200MB/s | DTKN/32GB, Silver",
+      "asin": "B08KHTRF61",
+      "link": "https://www.amazon.com/Kingston-DataTraveler-Kyson-32GB-DTKN/dp/B08KHTRF61/ref=sr_1_15?keywords=usb&qid=1685455475&sr=8-15",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71-AqIb4qYL._AC_UY218_.jpg",
+      "is_prime": true,
+      "rating": 4.5,
+      "ratings_total": 6615,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 5.84,
+          "currency": "USD",
+          "raw": "$5.84",
+          "name": "Primary",
+          "is_primary": true
+        },
+        {
+          "symbol": "$",
+          "value": 7.99,
+          "currency": "USD",
+          "raw": "$7.99",
+          "name": "Original",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 5.84,
+        "currency": "USD",
+        "raw": "$5.84",
+        "name": "Primary",
+        "is_primary": true
+      },
+      "page": 1,
+      "position_overall": 20
+    },
+    {
+      "position": 21,
+      "title": "SAMSUNG BAR Plus 3.1 USB Flash Drive, 128GB, 400MB/s, Rugged Metal Casing, Storage Expansion for Photos, Videos, Music, Files, MUF-128BE3/AM, Champagne Silver",
+      "asin": "B07BPK3XWW",
+      "link": "https://www.amazon.com/Samsung-BAR-Plus-128GB-MUF-128BE3/dp/B07BPK3XWW/ref=sr_1_16?keywords=usb&qid=1685455475&sr=8-16",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/81JJHlQjIiL._AC_UY218_.jpg",
+      "is_prime": true,
+      "rating": 4.7,
+      "ratings_total": 36611,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 17.99,
+          "currency": "USD",
+          "raw": "$17.99",
+          "name": "Primary",
+          "is_primary": true
+        },
+        {
+          "symbol": "$",
+          "value": 39.99,
+          "currency": "USD",
+          "raw": "$39.99",
+          "name": "Original",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 17.99,
+        "currency": "USD",
+        "raw": "$17.99",
+        "name": "Primary",
+        "is_primary": true
+      },
+      "page": 1,
+      "position_overall": 21
+    },
+    {
+      "position": 22,
+      "title": "USB Hub 4 in 1, USB to USB 3.0 USB 2.0,4 Ports Portable USB Splitter Mini USB Docking Station Compatible with MacBook,iPad Pro,Dell HP Laptop,Phones…",
+      "asin": "B0B5D3QJTC",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A1040863XEL6ANW6CT21&qualifier=1685455475&id=8254948828432649&widgetName=sp_mtf&url=%2FPortable-Splitter-Docking-Station-Compatible%2Fdp%2FB0B5D3QJTC%2Fref%3Dsr_1_17_sspa%3Fkeywords%3Dusb%26qid%3D1685455475%26sr%3D8-17-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/41zwwsYEAxL._AC_UY218_.jpg",
+      "is_prime": true,
+      "rating": 4.4,
+      "ratings_total": 244,
+      "sponsored": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 5.99,
+          "currency": "USD",
+          "raw": "$5.99",
+          "asin": "B0B5D3QJTC",
+          "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A1040863XEL6ANW6CT21&qualifier=1685455475&id=8254948828432649&widgetName=sp_mtf&url=%2FPortable-Splitter-Docking-Station-Compatible%2Fdp%2FB0B5D3QJTC%2Fref%3Dsr_1_17_sspa%3Fkeywords%3Dusb%26qid%3D1685455475%26sr%3D8-17-spons%26psc%3D1"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 5.99,
+        "currency": "USD",
+        "raw": "$5.99",
+        "asin": "B0B5D3QJTC",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A1040863XEL6ANW6CT21&qualifier=1685455475&id=8254948828432649&widgetName=sp_mtf&url=%2FPortable-Splitter-Docking-Station-Compatible%2Fdp%2FB0B5D3QJTC%2Fref%3Dsr_1_17_sspa%3Fkeywords%3Dusb%26qid%3D1685455475%26sr%3D8-17-spons%26psc%3D1"
+      },
+      "page": 1,
+      "position_overall": 22
+    },
+    {
+      "position": 23,
+      "title": "SAMSUNG Type-C™ USB Flash Drive, 128GB, Transfers 4GB Files in 11 Secs w/Up to 400MB/s 3.13 Read Speeds, Compatible w/USB 3.0/2.0, Waterproof, 2022",
+      "asin": "B09WB2RPS4",
+      "link": "https://www.amazon.com/SAMSUNG-Type-CTM-Transfers-Compatible-Waterproof/dp/B09WB2RPS4/ref=sr_1_18?keywords=usb&qid=1685455475&sr=8-18",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/817xK9Cd6JL._AC_UY218_.jpg",
+      "deal": {
+        "link": "https://www.amazon.com/gp/goldbox/",
+        "badge_text": "Limited time deal"
+      },
+      "is_prime": true,
+      "rating": 4.6,
+      "ratings_total": 2422,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 15.99,
+          "currency": "USD",
+          "raw": "$15.99",
+          "name": "Limited time deal",
+          "is_primary": true
+        },
+        {
+          "symbol": "$",
+          "value": 22.99,
+          "currency": "USD",
+          "raw": "$22.99",
+          "name": "Limited time deal",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 15.99,
+        "currency": "USD",
+        "raw": "$15.99",
+        "name": "Limited time deal",
+        "is_primary": true
+      },
+      "page": 1,
+      "position_overall": 23
+    },
+    {
+      "position": 24,
+      "title": "Lucktiger 1TB USB Flash Drive | Waterproof Large Data Storage USB Memory Stick | High Speed Portable Jump Drive Pen Drive Come with Keychain Flash Drive,Thumb Drive",
+      "asin": "B0BPXVD6SC",
+      "link": "https://www.amazon.com/Lucktiger-Waterproof-Storage-Portable-Keychain/dp/B0BPXVD6SC/ref=sr_1_19?keywords=usb&qid=1685455475&sr=8-19",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/510MONO6wvL._AC_UY218_.jpg",
+      "is_prime": true,
+      "rating": 1,
+      "ratings_total": 1,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 25.99,
+          "currency": "USD",
+          "raw": "$25.99",
+          "asin": "B0BPXVD6SC",
+          "link": "https://www.amazon.com/Lucktiger-Waterproof-Storage-Portable-Keychain/dp/B0BPXVD6SC/ref=sr_1_19?keywords=usb&qid=1685455475&sr=8-19"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 25.99,
+        "currency": "USD",
+        "raw": "$25.99",
+        "asin": "B0BPXVD6SC",
+        "link": "https://www.amazon.com/Lucktiger-Waterproof-Storage-Portable-Keychain/dp/B0BPXVD6SC/ref=sr_1_19?keywords=usb&qid=1685455475&sr=8-19"
+      },
+      "page": 1,
+      "position_overall": 24
+    },
+    {
+      "position": 25,
+      "title": "Marryler USB Flash Drive 256GB Waterproof USB Drive 256GB High Speed Memory Stick 256GB Ultra Large Storage Metal Thumb Drive with Keychain Design for Laptop Computer Tablet",
+      "asin": "B09QGJD6KX",
+      "link": "https://www.amazon.com/Marryler-Waterproof-Storage-Keychain-Computer/dp/B09QGJD6KX/ref=sr_1_20?keywords=usb&qid=1685455475&sr=8-20",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/51unjJ3DgPL._AC_UY218_.jpg",
+      "is_prime": true,
+      "rating": 4.1,
+      "ratings_total": 1575,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 9.99,
+          "currency": "USD",
+          "raw": "$9.99",
+          "asin": "B09QGJD6KX",
+          "link": "https://www.amazon.com/Marryler-Waterproof-Storage-Keychain-Computer/dp/B09QGJD6KX/ref=sr_1_20?keywords=usb&qid=1685455475&sr=8-20"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 9.99,
+        "currency": "USD",
+        "raw": "$9.99",
+        "asin": "B09QGJD6KX",
+        "link": "https://www.amazon.com/Marryler-Waterproof-Storage-Keychain-Computer/dp/B09QGJD6KX/ref=sr_1_20?keywords=usb&qid=1685455475&sr=8-20"
+      },
+      "page": 1,
+      "position_overall": 25
+    },
+    {
+      "position": 26,
+      "title": "16GB Flash Drive 10 Pack USB Flash Drive 16 gb KEXIN Thumb Drive Memory Stick Zip Drive USB 2.0, 5 Colors (Black, Blue, Green, White, Red)",
+      "asin": "B07C5P6K6V",
+      "link": "https://www.amazon.com/KEXIN-Flash-Drive-Memory-Colors/dp/B07C5P6K6V/ref=sr_1_21?keywords=usb&qid=1685455475&sr=8-21",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61jFbOnmejL._AC_UY218_.jpg",
+      "unit_price": "$2.90/Count",
+      "is_prime": true,
+      "rating": 4.6,
+      "ratings_total": 2460,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 25.99,
+          "currency": "USD",
+          "raw": "Join Prime to buy this item at $25.99"
+        },
+        {
+          "symbol": "$",
+          "value": 28.99,
+          "currency": "USD",
+          "raw": "$28.99"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 25.99,
+        "currency": "USD",
+        "raw": "Join Prime to buy this item at $25.99"
+      },
+      "page": 1,
+      "position_overall": 26
+    },
+    {
+      "position": 27,
+      "title": "USB 3.0 Hub, ORICO 4-Port USB Hub, Ultra Slim USB Splitter for Laptop for MacBook, Mac Pro, iMac, Surface Pro,XPS, PS5, PC, Flash Drive, Mobile HDD(Black/0.5ft)",
+      "asin": "B0BWLXWPRB",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_1?ie=UTF8&adId=A04015972SLMXDFWODV9R&qualifier=1685455475&id=8254948828432649&widgetName=sp_btf&url=%2FORICO-4-Port-Splitter-MacBook-Surface%2Fdp%2FB0BWLXWPRB%2Fref%3Dsr_1_22_sspa%3Fkeywords%3Dusb%26qid%3D1685455475%26sr%3D8-22-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71RCxT9mLoL._AC_UY218_.jpg",
+      "is_prime": true,
+      "rating": 4.6,
+      "ratings_total": 31,
+      "sponsored": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 7.99,
+          "currency": "USD",
+          "raw": "$7.99",
+          "asin": "B0BWLXWPRB",
+          "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_1?ie=UTF8&adId=A04015972SLMXDFWODV9R&qualifier=1685455475&id=8254948828432649&widgetName=sp_btf&url=%2FORICO-4-Port-Splitter-MacBook-Surface%2Fdp%2FB0BWLXWPRB%2Fref%3Dsr_1_22_sspa%3Fkeywords%3Dusb%26qid%3D1685455475%26sr%3D8-22-spons%26psc%3D1"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 7.99,
+        "currency": "USD",
+        "raw": "$7.99",
+        "asin": "B0BWLXWPRB",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_1?ie=UTF8&adId=A04015972SLMXDFWODV9R&qualifier=1685455475&id=8254948828432649&widgetName=sp_btf&url=%2FORICO-4-Port-Splitter-MacBook-Surface%2Fdp%2FB0BWLXWPRB%2Fref%3Dsr_1_22_sspa%3Fkeywords%3Dusb%26qid%3D1685455475%26sr%3D8-22-spons%26psc%3D1"
+      },
+      "page": 1,
+      "position_overall": 27
+    },
+    {
+      "position": 28,
+      "title": "Lexar 64GB Micro SD Card 2 Pack, microSDXC UHS-I Flash Memory Card with Adapter - Up to 100MB/s, U3, Class10, V30, A1, High Speed TF Card (2 microSD Cards + 1 Adapter)",
+      "asin": "B09JNKHJ2Q",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_btf_aps_sr_pg1_1?ie=UTF8&adId=A00729893MR9MU1WD60OT&qualifier=1685455475&id=3848249025468330&widgetName=sp_search_thematic_btf&url=%2FLexar-Micro-microSDXC-Memory-Adapter%2Fdp%2FB09JNKHJ2Q%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%253Aamzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB09JNKHJ2Q%26pd_rd_r%3Dd1acbad9-358b-4493-96f0-c910bfca692d%26pd_rd_w%3DQu3A7%26pd_rd_wg%3DlR5pj%26pf_rd_p%3D7e057a81-0d15-4285-8f30-ab0f50013e5d%26pf_rd_r%3DJNB7S4QXWF4ZR2VE1ANN%26qid%3D1685455475%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-1-1f5f133d-ee7e-4702-866f-b3bef629f2c1-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/51GlLUhf85L._AC_UL320_.jpg",
+      "is_prime": true,
+      "rating": 4.7,
+      "ratings_total": 14124,
+      "is_carousel": true,
+      "carousel": {
+        "sub_title": "Based on products frequently bought together",
+        "id": "loom-desktop-bottom-slot_sptw-t3-you-might-also-need-na"
+      },
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 14.99,
+          "currency": "USD",
+          "raw": "$14.99",
+          "name": "$14.99",
+          "asin": "B09JNKHJ2Q",
+          "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_btf_aps_sr_pg1_1?ie=UTF8&adId=A00729893MR9MU1WD60OT&qualifier=1685455475&id=3848249025468330&widgetName=sp_search_thematic_btf&url=%2FLexar-Micro-microSDXC-Memory-Adapter%2Fdp%2FB09JNKHJ2Q%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%253Aamzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB09JNKHJ2Q%26pd_rd_r%3Dd1acbad9-358b-4493-96f0-c910bfca692d%26pd_rd_w%3DQu3A7%26pd_rd_wg%3DlR5pj%26pf_rd_p%3D7e057a81-0d15-4285-8f30-ab0f50013e5d%26pf_rd_r%3DJNB7S4QXWF4ZR2VE1ANN%26qid%3D1685455475%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-1-1f5f133d-ee7e-4702-866f-b3bef629f2c1-spons%26psc%3D1"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 14.99,
+        "currency": "USD",
+        "raw": "$14.99",
+        "name": "$14.99",
+        "asin": "B09JNKHJ2Q",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_btf_aps_sr_pg1_1?ie=UTF8&adId=A00729893MR9MU1WD60OT&qualifier=1685455475&id=3848249025468330&widgetName=sp_search_thematic_btf&url=%2FLexar-Micro-microSDXC-Memory-Adapter%2Fdp%2FB09JNKHJ2Q%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%253Aamzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB09JNKHJ2Q%26pd_rd_r%3Dd1acbad9-358b-4493-96f0-c910bfca692d%26pd_rd_w%3DQu3A7%26pd_rd_wg%3DlR5pj%26pf_rd_p%3D7e057a81-0d15-4285-8f30-ab0f50013e5d%26pf_rd_r%3DJNB7S4QXWF4ZR2VE1ANN%26qid%3D1685455475%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-1-1f5f133d-ee7e-4702-866f-b3bef629f2c1-spons%26psc%3D1"
+      },
+      "page": 1,
+      "position_overall": 28
+    },
+    {
+      "position": 29,
+      "title": "Vansuny Micro SD Card 128GB 2 Pack microSDXC Memory Card with SD Adapter A1 App Performance V30 4K Video Recording C10 U3 Micro SD for Phone, Security Camera, Dash Cam, Action Camera",
+      "asin": "B0BRPZ8FY8",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_btf_aps_sr_pg1_2?ie=UTF8&adId=A0712016KU95CE0NPLL5&qualifier=1685455475&id=3848249025468330&widgetName=sp_search_thematic_btf&url=%2FVansuny-microSDXC-Performance-Recording-Security%2Fdp%2FB0BRPZ8FY8%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%253Aamzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB0BRPZ8FY8%26pd_rd_r%3Dd1acbad9-358b-4493-96f0-c910bfca692d%26pd_rd_w%3DQu3A7%26pd_rd_wg%3DlR5pj%26pf_rd_p%3D7e057a81-0d15-4285-8f30-ab0f50013e5d%26pf_rd_r%3DJNB7S4QXWF4ZR2VE1ANN%26qid%3D1685455475%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-2-1f5f133d-ee7e-4702-866f-b3bef629f2c1-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61yvXU+UTJL._AC_UL320_.jpg",
+      "is_prime": true,
+      "rating": 4.4,
+      "ratings_total": 299,
+      "is_carousel": true,
+      "carousel": {
+        "sub_title": "Based on products frequently bought together",
+        "id": "loom-desktop-bottom-slot_sptw-t3-you-might-also-need-na"
+      },
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 15.99,
+          "currency": "USD",
+          "raw": "Join Prime to buy this item at $15.99",
+          "name": "$18.99"
+        },
+        {
+          "symbol": "$",
+          "value": 18.99,
+          "currency": "USD",
+          "raw": "$18.99",
+          "name": "$18.99"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 15.99,
+        "currency": "USD",
+        "raw": "Join Prime to buy this item at $15.99",
+        "name": "$18.99"
+      },
+      "page": 1,
+      "position_overall": 29
+    },
+    {
+      "position": 30,
+      "title": "Netac 2TB Portable SSD Up to 1050MB/s Read 1000MB/s Write Speed Type-C USB 3.2Gen 2, External Solid State Drive PCIe Gen3x4 NVMe1.3 Business Travel Essential Dust-Resistant, ZX10",
+      "asin": "B0C1N7JHKH",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_btf_aps_sr_pg1_3?ie=UTF8&adId=A079281814J04RN3G6GPS&qualifier=1685455475&id=3848249025468330&widgetName=sp_search_thematic_btf&url=%2FNetac-Portable-External-Essential-Dust-Resistant%2Fdp%2FB0C1N7JHKH%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%253Aamzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB0C1N7JHKH%26pd_rd_r%3Dd1acbad9-358b-4493-96f0-c910bfca692d%26pd_rd_w%3DQu3A7%26pd_rd_wg%3DlR5pj%26pf_rd_p%3D7e057a81-0d15-4285-8f30-ab0f50013e5d%26pf_rd_r%3DJNB7S4QXWF4ZR2VE1ANN%26qid%3D1685455475%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-3-1f5f133d-ee7e-4702-866f-b3bef629f2c1-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/51DhpZYHtJL._AC_UL320_.jpg",
+      "coupon": {
+        "badge_text": "Save $15.00",
+        "text": "with coupon"
+      },
+      "is_prime": true,
+      "rating": 5,
+      "ratings_total": 6,
+      "is_carousel": true,
+      "carousel": {
+        "sub_title": "Based on products frequently bought together",
+        "id": "loom-desktop-bottom-slot_sptw-t3-you-might-also-need-na"
+      },
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 123.89,
+          "currency": "USD",
+          "raw": "$123.89",
+          "name": "$123.89",
+          "asin": "B0C1N7JHKH",
+          "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_btf_aps_sr_pg1_3?ie=UTF8&adId=A079281814J04RN3G6GPS&qualifier=1685455475&id=3848249025468330&widgetName=sp_search_thematic_btf&url=%2FNetac-Portable-External-Essential-Dust-Resistant%2Fdp%2FB0C1N7JHKH%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%253Aamzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB0C1N7JHKH%26pd_rd_r%3Dd1acbad9-358b-4493-96f0-c910bfca692d%26pd_rd_w%3DQu3A7%26pd_rd_wg%3DlR5pj%26pf_rd_p%3D7e057a81-0d15-4285-8f30-ab0f50013e5d%26pf_rd_r%3DJNB7S4QXWF4ZR2VE1ANN%26qid%3D1685455475%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-3-1f5f133d-ee7e-4702-866f-b3bef629f2c1-spons%26psc%3D1"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 123.89,
+        "currency": "USD",
+        "raw": "$123.89",
+        "name": "$123.89",
+        "asin": "B0C1N7JHKH",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_btf_aps_sr_pg1_3?ie=UTF8&adId=A079281814J04RN3G6GPS&qualifier=1685455475&id=3848249025468330&widgetName=sp_search_thematic_btf&url=%2FNetac-Portable-External-Essential-Dust-Resistant%2Fdp%2FB0C1N7JHKH%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%253Aamzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB0C1N7JHKH%26pd_rd_r%3Dd1acbad9-358b-4493-96f0-c910bfca692d%26pd_rd_w%3DQu3A7%26pd_rd_wg%3DlR5pj%26pf_rd_p%3D7e057a81-0d15-4285-8f30-ab0f50013e5d%26pf_rd_r%3DJNB7S4QXWF4ZR2VE1ANN%26qid%3D1685455475%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-3-1f5f133d-ee7e-4702-866f-b3bef629f2c1-spons%26psc%3D1"
+      },
+      "page": 1,
+      "position_overall": 30
+    },
+    {
+      "position": 31,
+      "title": "SEAGAER 320GB Portable External Hard Drive USB3.0 Ultra Slim 2.5\" HDD for PC, Mac, Laptop, Chromebook, Xbox One, Xbox 360, PS4 (Black)",
+      "asin": "B0BG9PK1PB",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_btf_aps_sr_pg1_4?ie=UTF8&adId=A069236422H9P2B7CDRGW&qualifier=1685455475&id=3848249025468330&widgetName=sp_search_thematic_btf&url=%2FSEAGAER-Portable-External-USB3-0-Chromebook%2Fdp%2FB0BG9PK1PB%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%253Aamzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB0BG9PK1PB%26pd_rd_r%3Dd1acbad9-358b-4493-96f0-c910bfca692d%26pd_rd_w%3DQu3A7%26pd_rd_wg%3DlR5pj%26pf_rd_p%3D7e057a81-0d15-4285-8f30-ab0f50013e5d%26pf_rd_r%3DJNB7S4QXWF4ZR2VE1ANN%26qid%3D1685455475%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-4-1f5f133d-ee7e-4702-866f-b3bef629f2c1-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/717EjBILYNL._AC_UL320_.jpg",
+      "is_prime": true,
+      "rating": 4.7,
+      "ratings_total": 10,
+      "is_carousel": true,
+      "carousel": {
+        "sub_title": "Based on products frequently bought together",
+        "id": "loom-desktop-bottom-slot_sptw-t3-you-might-also-need-na"
+      },
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 20.99,
+          "currency": "USD",
+          "raw": "$20.99",
+          "name": "$20.99",
+          "asin": "B0BG9PK1PB",
+          "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_btf_aps_sr_pg1_4?ie=UTF8&adId=A069236422H9P2B7CDRGW&qualifier=1685455475&id=3848249025468330&widgetName=sp_search_thematic_btf&url=%2FSEAGAER-Portable-External-USB3-0-Chromebook%2Fdp%2FB0BG9PK1PB%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%253Aamzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB0BG9PK1PB%26pd_rd_r%3Dd1acbad9-358b-4493-96f0-c910bfca692d%26pd_rd_w%3DQu3A7%26pd_rd_wg%3DlR5pj%26pf_rd_p%3D7e057a81-0d15-4285-8f30-ab0f50013e5d%26pf_rd_r%3DJNB7S4QXWF4ZR2VE1ANN%26qid%3D1685455475%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-4-1f5f133d-ee7e-4702-866f-b3bef629f2c1-spons%26psc%3D1"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 20.99,
+        "currency": "USD",
+        "raw": "$20.99",
+        "name": "$20.99",
+        "asin": "B0BG9PK1PB",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_btf_aps_sr_pg1_4?ie=UTF8&adId=A069236422H9P2B7CDRGW&qualifier=1685455475&id=3848249025468330&widgetName=sp_search_thematic_btf&url=%2FSEAGAER-Portable-External-USB3-0-Chromebook%2Fdp%2FB0BG9PK1PB%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%253Aamzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB0BG9PK1PB%26pd_rd_r%3Dd1acbad9-358b-4493-96f0-c910bfca692d%26pd_rd_w%3DQu3A7%26pd_rd_wg%3DlR5pj%26pf_rd_p%3D7e057a81-0d15-4285-8f30-ab0f50013e5d%26pf_rd_r%3DJNB7S4QXWF4ZR2VE1ANN%26qid%3D1685455475%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-4-1f5f133d-ee7e-4702-866f-b3bef629f2c1-spons%26psc%3D1"
+      },
+      "page": 1,
+      "position_overall": 31
+    },
+    {
+      "position": 32,
+      "title": "HWAYO 250GB Portable External Hard Drive, USB3.1 Gen 1 Type C Ultra Slim 2.5'' HDD Storage Compatible for PC, Desktop, Laptop, Mac, Xbox One (Silver)",
+      "asin": "B08DY5C1ZN",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_btf_aps_sr_pg1_5?ie=UTF8&adId=A003654310KL0WDJ38NDB&qualifier=1685455475&id=3848249025468330&widgetName=sp_search_thematic_btf&url=%2FHWAYO-Portable-External-Storage-Compatible%2Fdp%2FB08DY5C1ZN%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%253Aamzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB08DY5C1ZN%26pd_rd_r%3Dd1acbad9-358b-4493-96f0-c910bfca692d%26pd_rd_w%3DQu3A7%26pd_rd_wg%3DlR5pj%26pf_rd_p%3D7e057a81-0d15-4285-8f30-ab0f50013e5d%26pf_rd_r%3DJNB7S4QXWF4ZR2VE1ANN%26qid%3D1685455475%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-5-1f5f133d-ee7e-4702-866f-b3bef629f2c1-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/6118HgsVcaL._AC_UL320_.jpg",
+      "is_prime": true,
+      "rating": 4.2,
+      "ratings_total": 421,
+      "is_carousel": true,
+      "carousel": {
+        "sub_title": "Based on products frequently bought together",
+        "id": "loom-desktop-bottom-slot_sptw-t3-you-might-also-need-na"
+      },
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 23.99,
+          "currency": "USD",
+          "raw": "$23.99",
+          "name": "$23.99",
+          "asin": "B08DY5C1ZN",
+          "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_btf_aps_sr_pg1_5?ie=UTF8&adId=A003654310KL0WDJ38NDB&qualifier=1685455475&id=3848249025468330&widgetName=sp_search_thematic_btf&url=%2FHWAYO-Portable-External-Storage-Compatible%2Fdp%2FB08DY5C1ZN%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%253Aamzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB08DY5C1ZN%26pd_rd_r%3Dd1acbad9-358b-4493-96f0-c910bfca692d%26pd_rd_w%3DQu3A7%26pd_rd_wg%3DlR5pj%26pf_rd_p%3D7e057a81-0d15-4285-8f30-ab0f50013e5d%26pf_rd_r%3DJNB7S4QXWF4ZR2VE1ANN%26qid%3D1685455475%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-5-1f5f133d-ee7e-4702-866f-b3bef629f2c1-spons%26psc%3D1"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 23.99,
+        "currency": "USD",
+        "raw": "$23.99",
+        "name": "$23.99",
+        "asin": "B08DY5C1ZN",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_btf_aps_sr_pg1_5?ie=UTF8&adId=A003654310KL0WDJ38NDB&qualifier=1685455475&id=3848249025468330&widgetName=sp_search_thematic_btf&url=%2FHWAYO-Portable-External-Storage-Compatible%2Fdp%2FB08DY5C1ZN%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%253Aamzn1.sym.7e057a81-0d15-4285-8f30-ab0f50013e5d%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB08DY5C1ZN%26pd_rd_r%3Dd1acbad9-358b-4493-96f0-c910bfca692d%26pd_rd_w%3DQu3A7%26pd_rd_wg%3DlR5pj%26pf_rd_p%3D7e057a81-0d15-4285-8f30-ab0f50013e5d%26pf_rd_r%3DJNB7S4QXWF4ZR2VE1ANN%26qid%3D1685455475%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-5-1f5f133d-ee7e-4702-866f-b3bef629f2c1-spons%26psc%3D1"
+      },
+      "page": 1,
+      "position_overall": 32
+    },
+    {
+      "position": 1,
+      "title": "MOSDART 64GB USB Flash Drive 5 Pack, 64 GB Multicolor Multipack USB2.0 Thumb Drives, Swivel Design with LED Light, exFAT Jump Drive Memory Stick for Computers, Data Storage",
+      "asin": "B0BXHJ3873",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg2_1?ie=UTF8&adId=A09677391V6NQHOOU7AKU&qualifier=1685455503&id=596207801633999&widgetName=sp_atf_next&url=%2FMOSDART-Multicolor-Multipack-Computers-Storage%2Fdp%2FB0BXHJ3873%2Fref%3Dsr_1_17_sspa%3Fkeywords%3Dusb%26qid%3D1685455503%26sr%3D8-17-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61bfUpvH+jL._AC_UY218_.jpg",
+      "coupon": {
+        "badge_text": "Save 50%",
+        "text": "with coupon"
+      },
+      "rating": 4.6,
+      "ratings_total": 3879,
+      "sponsored": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 35.99,
+          "currency": "USD",
+          "raw": "$35.99",
+          "asin": "B0BXHJ3873",
+          "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg2_1?ie=UTF8&adId=A09677391V6NQHOOU7AKU&qualifier=1685455503&id=596207801633999&widgetName=sp_atf_next&url=%2FMOSDART-Multicolor-Multipack-Computers-Storage%2Fdp%2FB0BXHJ3873%2Fref%3Dsr_1_17_sspa%3Fkeywords%3Dusb%26qid%3D1685455503%26sr%3D8-17-spons%26psc%3D1"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 35.99,
+        "currency": "USD",
+        "raw": "$35.99",
+        "asin": "B0BXHJ3873",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg2_1?ie=UTF8&adId=A09677391V6NQHOOU7AKU&qualifier=1685455503&id=596207801633999&widgetName=sp_atf_next&url=%2FMOSDART-Multicolor-Multipack-Computers-Storage%2Fdp%2FB0BXHJ3873%2Fref%3Dsr_1_17_sspa%3Fkeywords%3Dusb%26qid%3D1685455503%26sr%3D8-17-spons%26psc%3D1"
+      },
+      "page": 2,
+      "position_overall": 33
+    },
+    {
+      "position": 2,
+      "title": "Lexar 64GB USB 2.0 Flash Drive, Mini USB Stick, UDP Thumb Drive, Memory Stick with Zinc Alloy Design, Jump Drive, Pen Drive for PC/Laptop/Computer/External Storage",
+      "asin": "B08XQCD76B",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg2_1?ie=UTF8&adId=A06409213KZOW6MRSUWJ1&qualifier=1685455503&id=596207801633999&widgetName=sp_atf_next&url=%2FLexar-Computer-Speaker-External-Storage%2Fdp%2FB08XQCD76B%2Fref%3Dsr_1_18_sspa%3Fkeywords%3Dusb%26qid%3D1685455503%26sr%3D8-18-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/41aKsU8POsL._AC_UY218_.jpg",
+      "rating": 4.5,
+      "ratings_total": 4595,
+      "sponsored": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 5.99,
+          "currency": "USD",
+          "raw": "$5.99",
+          "asin": "B08XQCD76B",
+          "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg2_1?ie=UTF8&adId=A06409213KZOW6MRSUWJ1&qualifier=1685455503&id=596207801633999&widgetName=sp_atf_next&url=%2FLexar-Computer-Speaker-External-Storage%2Fdp%2FB08XQCD76B%2Fref%3Dsr_1_18_sspa%3Fkeywords%3Dusb%26qid%3D1685455503%26sr%3D8-18-spons%26psc%3D1"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 5.99,
+        "currency": "USD",
+        "raw": "$5.99",
+        "asin": "B08XQCD76B",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg2_1?ie=UTF8&adId=A06409213KZOW6MRSUWJ1&qualifier=1685455503&id=596207801633999&widgetName=sp_atf_next&url=%2FLexar-Computer-Speaker-External-Storage%2Fdp%2FB08XQCD76B%2Fref%3Dsr_1_18_sspa%3Fkeywords%3Dusb%26qid%3D1685455503%26sr%3D8-18-spons%26psc%3D1"
+      },
+      "page": 2,
+      "position_overall": 34
+    },
+    {
+      "position": 3,
+      "title": "2 Pack 64GB USB Flash Drives Gradient Color USB 2.0 Memory Stick Wholesale Bulk Swivel Design Thumb Drive for Data Storage (Purple Cyan, Golden Pink)",
+      "asin": "B0BFWHDL9W",
+      "link": "https://www.amazon.com/Drives-Gradient-Memory-Wholesale-Storage/dp/B0BFWHDL9W/ref=sr_1_19?keywords=usb&qid=1685455503&sr=8-19",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/51xLPrtsmyL._AC_UY218_.jpg",
+      "rating": 4.4,
+      "ratings_total": 414,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 9,
+          "currency": "USD",
+          "raw": "$9.00",
+          "asin": "B0BFWHDL9W",
+          "link": "https://www.amazon.com/Drives-Gradient-Memory-Wholesale-Storage/dp/B0BFWHDL9W/ref=sr_1_19?keywords=usb&qid=1685455503&sr=8-19"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 9,
+        "currency": "USD",
+        "raw": "$9.00",
+        "asin": "B0BFWHDL9W",
+        "link": "https://www.amazon.com/Drives-Gradient-Memory-Wholesale-Storage/dp/B0BFWHDL9W/ref=sr_1_19?keywords=usb&qid=1685455503&sr=8-19"
+      },
+      "page": 2,
+      "position_overall": 35
+    },
+    {
+      "position": 4,
+      "title": "USB C Flash Drive 1TB Memory Stick USB 3.0 Thumb Drive 1TB Phone Photo Stick MacBook Pro USB C Data Storage Drive WANSISEN for Android Phone,Computers and Tablets LXUC 1TB Pink",
+      "asin": "B09DX76WD5",
+      "link": "https://www.amazon.com/WANSISEN-MacBook-Storage-Android-Computers/dp/B09DX76WD5/ref=sr_1_20?keywords=usb&qid=1685455503&sr=8-20",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/51th5hHGuUL._AC_UY218_.jpg",
+      "rating": 3.9,
+      "ratings_total": 1827,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 39.96,
+          "currency": "USD",
+          "raw": "$39.96",
+          "asin": "B09DX76WD5",
+          "link": "https://www.amazon.com/WANSISEN-MacBook-Storage-Android-Computers/dp/B09DX76WD5/ref=sr_1_20?keywords=usb&qid=1685455503&sr=8-20"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 39.96,
+        "currency": "USD",
+        "raw": "$39.96",
+        "asin": "B09DX76WD5",
+        "link": "https://www.amazon.com/WANSISEN-MacBook-Storage-Android-Computers/dp/B09DX76WD5/ref=sr_1_20?keywords=usb&qid=1685455503&sr=8-20"
+      },
+      "page": 2,
+      "position_overall": 36
+    },
+    {
+      "position": 5,
+      "title": "USB 3.0 Flash Drive 1TB, Portable Thumb Drives 1000GB: USB 3.0 Memory Stick, Ultra Large Storage USB 3.0 Drive, High-Speed 1TB Jump Drive, 1000GB Swivel Design Zip Drive for PC/Laptop",
+      "asin": "B0C4F4Q16G",
+      "link": "https://www.amazon.com/Flash-Drive-Portable-Drives-1000GB/dp/B0C4F4Q16G/ref=sr_1_21?keywords=usb&qid=1685455503&sr=8-21",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/51CHs5WKxNL._AC_UY218_.jpg",
+      "rating": 4.5,
+      "ratings_total": 215,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 25.99,
+          "currency": "USD",
+          "raw": "$25.99",
+          "name": "Primary",
+          "is_primary": true
+        },
+        {
+          "symbol": "$",
+          "value": 29.99,
+          "currency": "USD",
+          "raw": "$29.99",
+          "name": "Original",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 25.99,
+        "currency": "USD",
+        "raw": "$25.99",
+        "name": "Primary",
+        "is_primary": true
+      },
+      "page": 2,
+      "position_overall": 37
+    },
+    {
+      "position": 6,
+      "title": "Bulk Flash Drives 4GB 20 Pack, AreTop USB2.0 Swivel Bulk Thumb Drives 20 Pack Memory Stick USB 20 Pack Pendrive 4GB USB Drive 20 Pack Jump Drive (20Pack 4GB, Multicolors)",
+      "asin": "B0751915Q2",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg2_1?ie=UTF8&adId=A0371029128IUXLJRS2N9&qualifier=1685455503&id=2083319517032421&widgetName=sp_search_thematic&url=%2FAreTop-USB2-0-Memory-Storage-20Pcs-Multicolors%2Fdp%2FB0751915Q2%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%253Aamzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB0751915Q2%26pd_rd_r%3D42450a44-2ed7-4216-a6fb-396b822572ca%26pd_rd_w%3DFKp2W%26pd_rd_wg%3DkkM9Q%26pf_rd_p%3D07629a51-3c34-4c1a-9970-24be07584572%26pf_rd_r%3DDHZQMF4C66HSA42YT3R9%26qid%3D1685455503%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-17-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/416MDFKOMdL._AC_UL320_.jpg",
+      "coupon": {
+        "badge_text": "Save 5%",
+        "text": "with coupon"
+      },
+      "unit_price": "$2.44/Count",
+      "rating": 4.5,
+      "ratings_total": 3054,
+      "is_carousel": true,
+      "carousel": {
+        "sub_title": "Based on star rating and number of customer ratings",
+        "id": "loom-desktop-inline-slot_sptw-highly-rated-page2plus-na-t1"
+      },
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 48.77,
+          "currency": "USD",
+          "raw": "$48.77",
+          "name": "$48.77",
+          "asin": "B0751915Q2",
+          "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg2_1?ie=UTF8&adId=A0371029128IUXLJRS2N9&qualifier=1685455503&id=2083319517032421&widgetName=sp_search_thematic&url=%2FAreTop-USB2-0-Memory-Storage-20Pcs-Multicolors%2Fdp%2FB0751915Q2%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%253Aamzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB0751915Q2%26pd_rd_r%3D42450a44-2ed7-4216-a6fb-396b822572ca%26pd_rd_w%3DFKp2W%26pd_rd_wg%3DkkM9Q%26pf_rd_p%3D07629a51-3c34-4c1a-9970-24be07584572%26pf_rd_r%3DDHZQMF4C66HSA42YT3R9%26qid%3D1685455503%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-17-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26psc%3D1"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 48.77,
+        "currency": "USD",
+        "raw": "$48.77",
+        "name": "$48.77",
+        "asin": "B0751915Q2",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg2_1?ie=UTF8&adId=A0371029128IUXLJRS2N9&qualifier=1685455503&id=2083319517032421&widgetName=sp_search_thematic&url=%2FAreTop-USB2-0-Memory-Storage-20Pcs-Multicolors%2Fdp%2FB0751915Q2%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%253Aamzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB0751915Q2%26pd_rd_r%3D42450a44-2ed7-4216-a6fb-396b822572ca%26pd_rd_w%3DFKp2W%26pd_rd_wg%3DkkM9Q%26pf_rd_p%3D07629a51-3c34-4c1a-9970-24be07584572%26pf_rd_r%3DDHZQMF4C66HSA42YT3R9%26qid%3D1685455503%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-17-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26psc%3D1"
+      },
+      "delivery": {
+        "tagline": "Get it as soon as Tue, Jun 6"
+      },
+      "page": 2,
+      "position_overall": 38
+    },
+    {
+      "position": 7,
+      "title": "MOSDART 64GB USB Flash Drive 5 Pack, 64 GB Multicolor Multipack USB2.0 Thumb Drives, Swivel Design with LED Light, exFAT Jump Drive Memory Stick for Computers, Data Storage",
+      "asin": "B0BXHJ3873",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg2_2?ie=UTF8&adId=A09677391V6NQHOOU7AKU&qualifier=1685455503&id=2083319517032421&widgetName=sp_search_thematic&url=%2FMOSDART-Multicolor-Multipack-Computers-Storage%2Fdp%2FB0BXHJ3873%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%253Aamzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB0BXHJ3873%26pd_rd_r%3D42450a44-2ed7-4216-a6fb-396b822572ca%26pd_rd_w%3DFKp2W%26pd_rd_wg%3DkkM9Q%26pf_rd_p%3D07629a51-3c34-4c1a-9970-24be07584572%26pf_rd_r%3DDHZQMF4C66HSA42YT3R9%26qid%3D1685455503%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-18-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61bfUpvH+jL._AC_UL320_.jpg",
+      "coupon": {
+        "badge_text": "Save 50%",
+        "text": "with coupon"
+      },
+      "rating": 4.6,
+      "ratings_total": 3879,
+      "is_carousel": true,
+      "carousel": {
+        "sub_title": "Based on star rating and number of customer ratings",
+        "id": "loom-desktop-inline-slot_sptw-highly-rated-page2plus-na-t1"
+      },
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 35.99,
+          "currency": "USD",
+          "raw": "$35.99",
+          "name": "$35.99",
+          "asin": "B0BXHJ3873",
+          "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg2_2?ie=UTF8&adId=A09677391V6NQHOOU7AKU&qualifier=1685455503&id=2083319517032421&widgetName=sp_search_thematic&url=%2FMOSDART-Multicolor-Multipack-Computers-Storage%2Fdp%2FB0BXHJ3873%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%253Aamzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB0BXHJ3873%26pd_rd_r%3D42450a44-2ed7-4216-a6fb-396b822572ca%26pd_rd_w%3DFKp2W%26pd_rd_wg%3DkkM9Q%26pf_rd_p%3D07629a51-3c34-4c1a-9970-24be07584572%26pf_rd_r%3DDHZQMF4C66HSA42YT3R9%26qid%3D1685455503%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-18-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26psc%3D1"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 35.99,
+        "currency": "USD",
+        "raw": "$35.99",
+        "name": "$35.99",
+        "asin": "B0BXHJ3873",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg2_2?ie=UTF8&adId=A09677391V6NQHOOU7AKU&qualifier=1685455503&id=2083319517032421&widgetName=sp_search_thematic&url=%2FMOSDART-Multicolor-Multipack-Computers-Storage%2Fdp%2FB0BXHJ3873%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%253Aamzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB0BXHJ3873%26pd_rd_r%3D42450a44-2ed7-4216-a6fb-396b822572ca%26pd_rd_w%3DFKp2W%26pd_rd_wg%3DkkM9Q%26pf_rd_p%3D07629a51-3c34-4c1a-9970-24be07584572%26pf_rd_r%3DDHZQMF4C66HSA42YT3R9%26qid%3D1685455503%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-18-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26psc%3D1"
+      },
+      "delivery": {
+        "tagline": "Get it as soon as Tue, Jun 6"
+      },
+      "page": 2,
+      "position_overall": 39
+    },
+    {
+      "position": 8,
+      "title": "Aiibe 128GB Flash Drive 5 Pack 128GB USB Flash Drive Thumb Drive 128 GB USB Drive USB 2.0 Memory Sticks 128GB USB Jump Drives 128GB (5 Pack, Red Green Cyan Yellow Purple)",
+      "asin": "B0BJPXC26G",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg2_3?ie=UTF8&adId=A03231171E6XRY1I90V8B&qualifier=1685455503&id=2083319517032421&widgetName=sp_search_thematic&url=%2FAiibe-Memory-Sticks-Drives-Yellow%2Fdp%2FB0BJPXC26G%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%253Aamzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB0BJPXC26G%26pd_rd_r%3D42450a44-2ed7-4216-a6fb-396b822572ca%26pd_rd_w%3DFKp2W%26pd_rd_wg%3DkkM9Q%26pf_rd_p%3D07629a51-3c34-4c1a-9970-24be07584572%26pf_rd_r%3DDHZQMF4C66HSA42YT3R9%26qid%3D1685455503%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-19-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/51dXpywFjWL._AC_UL320_.jpg",
+      "deal": {
+        "link": "https://www.amazon.com/gp/goldbox/",
+        "badge_text": "Limited time deal"
+      },
+      "rating": 4.4,
+      "ratings_total": 3557,
+      "is_carousel": true,
+      "carousel": {
+        "sub_title": "Based on star rating and number of customer ratings",
+        "id": "loom-desktop-inline-slot_sptw-highly-rated-page2plus-na-t1"
+      },
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 39.99,
+          "currency": "USD",
+          "raw": "$39.99",
+          "name": "$39.99",
+          "is_primary": true
+        },
+        {
+          "symbol": "$",
+          "value": 49.99,
+          "currency": "USD",
+          "raw": "$49.99",
+          "name": "$39.99",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 39.99,
+        "currency": "USD",
+        "raw": "$39.99",
+        "name": "$39.99",
+        "is_primary": true
+      },
+      "delivery": {
+        "tagline": "Get it as soon as Tue, Jun 6"
+      },
+      "page": 2,
+      "position_overall": 40
+    },
+    {
+      "position": 9,
+      "title": "KALSAN 20 Pack 8GB USB Flah Drives Pack USB 2.0 8GB Flash Drive 20 Pack USB Memory Stick-Blue",
+      "asin": "B07K173R1D",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg2_4?ie=UTF8&adId=A0442244L5FCU7RVYOAY&qualifier=1685455503&id=2083319517032421&widgetName=sp_search_thematic&url=%2FKALSAN-Drives-Flash-Memory-Stick-Blue%2Fdp%2FB07K173R1D%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%253Aamzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB07K173R1D%26pd_rd_r%3D42450a44-2ed7-4216-a6fb-396b822572ca%26pd_rd_w%3DFKp2W%26pd_rd_wg%3DkkM9Q%26pf_rd_p%3D07629a51-3c34-4c1a-9970-24be07584572%26pf_rd_r%3DDHZQMF4C66HSA42YT3R9%26qid%3D1685455503%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-20-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/618AvyiWNrL._AC_UL320_.jpg",
+      "coupon": {
+        "badge_text": "Save 8%",
+        "text": "with coupon"
+      },
+      "rating": 4.4,
+      "ratings_total": 599,
+      "is_carousel": true,
+      "carousel": {
+        "sub_title": "Based on star rating and number of customer ratings",
+        "id": "loom-desktop-inline-slot_sptw-highly-rated-page2plus-na-t1"
+      },
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 47.99,
+          "currency": "USD",
+          "raw": "$47.99",
+          "name": "$47.99",
+          "asin": "B07K173R1D",
+          "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg2_4?ie=UTF8&adId=A0442244L5FCU7RVYOAY&qualifier=1685455503&id=2083319517032421&widgetName=sp_search_thematic&url=%2FKALSAN-Drives-Flash-Memory-Stick-Blue%2Fdp%2FB07K173R1D%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%253Aamzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB07K173R1D%26pd_rd_r%3D42450a44-2ed7-4216-a6fb-396b822572ca%26pd_rd_w%3DFKp2W%26pd_rd_wg%3DkkM9Q%26pf_rd_p%3D07629a51-3c34-4c1a-9970-24be07584572%26pf_rd_r%3DDHZQMF4C66HSA42YT3R9%26qid%3D1685455503%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-20-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26psc%3D1"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 47.99,
+        "currency": "USD",
+        "raw": "$47.99",
+        "name": "$47.99",
+        "asin": "B07K173R1D",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg2_4?ie=UTF8&adId=A0442244L5FCU7RVYOAY&qualifier=1685455503&id=2083319517032421&widgetName=sp_search_thematic&url=%2FKALSAN-Drives-Flash-Memory-Stick-Blue%2Fdp%2FB07K173R1D%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%253Aamzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB07K173R1D%26pd_rd_r%3D42450a44-2ed7-4216-a6fb-396b822572ca%26pd_rd_w%3DFKp2W%26pd_rd_wg%3DkkM9Q%26pf_rd_p%3D07629a51-3c34-4c1a-9970-24be07584572%26pf_rd_r%3DDHZQMF4C66HSA42YT3R9%26qid%3D1685455503%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-20-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26psc%3D1"
+      },
+      "delivery": {
+        "tagline": "Get it as soon as Tue, Jun 6"
+      },
+      "page": 2,
+      "position_overall": 41
+    },
+    {
+      "position": 10,
+      "title": "Aiibe 10 Pieces 32GB USB Flash Drive 10 Pack USB 2.0 Memory Stick Thumbdrives (Mix Colors : Black Blue Red Green Orange White Yellow Pink Purple Silver)",
+      "asin": "B07DFYZ8FF",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg2_5?ie=UTF8&adId=A04763353NLC7SEFBZUA1&qualifier=1685455503&id=2083319517032421&widgetName=sp_search_thematic&url=%2FAiibe-Pieces-Memory-Thumbdrives-Colors%2Fdp%2FB07DFYZ8FF%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%253Aamzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB07DFYZ8FF%26pd_rd_r%3D42450a44-2ed7-4216-a6fb-396b822572ca%26pd_rd_w%3DFKp2W%26pd_rd_wg%3DkkM9Q%26pf_rd_p%3D07629a51-3c34-4c1a-9970-24be07584572%26pf_rd_r%3DDHZQMF4C66HSA42YT3R9%26qid%3D1685455503%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-21-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71kBggJ6-uL._AC_UL320_.jpg",
+      "coupon": {
+        "badge_text": "Save 5%",
+        "text": "with coupon"
+      },
+      "unit_price": "$3.20/Count",
+      "rating": 4.6,
+      "ratings_total": 6018,
+      "is_carousel": true,
+      "carousel": {
+        "sub_title": "Based on star rating and number of customer ratings",
+        "id": "loom-desktop-inline-slot_sptw-highly-rated-page2plus-na-t1"
+      },
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 31.99,
+          "currency": "USD",
+          "raw": "$31.99",
+          "name": "$31.99",
+          "asin": "B07DFYZ8FF",
+          "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg2_5?ie=UTF8&adId=A04763353NLC7SEFBZUA1&qualifier=1685455503&id=2083319517032421&widgetName=sp_search_thematic&url=%2FAiibe-Pieces-Memory-Thumbdrives-Colors%2Fdp%2FB07DFYZ8FF%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%253Aamzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB07DFYZ8FF%26pd_rd_r%3D42450a44-2ed7-4216-a6fb-396b822572ca%26pd_rd_w%3DFKp2W%26pd_rd_wg%3DkkM9Q%26pf_rd_p%3D07629a51-3c34-4c1a-9970-24be07584572%26pf_rd_r%3DDHZQMF4C66HSA42YT3R9%26qid%3D1685455503%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-21-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26psc%3D1"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 31.99,
+        "currency": "USD",
+        "raw": "$31.99",
+        "name": "$31.99",
+        "asin": "B07DFYZ8FF",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg2_5?ie=UTF8&adId=A04763353NLC7SEFBZUA1&qualifier=1685455503&id=2083319517032421&widgetName=sp_search_thematic&url=%2FAiibe-Pieces-Memory-Thumbdrives-Colors%2Fdp%2FB07DFYZ8FF%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%253Aamzn1.sym.07629a51-3c34-4c1a-9970-24be07584572%26cv_ct_cx%3Dusb%26keywords%3Dusb%26pd_rd_i%3DB07DFYZ8FF%26pd_rd_r%3D42450a44-2ed7-4216-a6fb-396b822572ca%26pd_rd_w%3DFKp2W%26pd_rd_wg%3DkkM9Q%26pf_rd_p%3D07629a51-3c34-4c1a-9970-24be07584572%26pf_rd_r%3DDHZQMF4C66HSA42YT3R9%26qid%3D1685455503%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-21-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26psc%3D1"
+      },
+      "delivery": {
+        "tagline": "Get it as soon as Tue, Jun 6"
+      },
+      "page": 2,
+      "position_overall": 42
+    },
+    {
+      "position": 11,
+      "title": "wedcook USB Flash Drive 1TB Waterproof USB 3.0 Flash Drive High Speed Thumb Drive 1000GB with Keychain Portable Shockproof USB Drive External Data Storage for Computer Laptop Car Audio Projector",
+      "asin": "B0C3B598XB",
+      "link": "https://www.amazon.com/wedcook-Waterproof-Keychain-Shockproof-Projector/dp/B0C3B598XB/ref=sr_1_22?keywords=usb&qid=1685455503&sr=8-22",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/513hpYcb5jL._AC_UY218_.jpg",
+      "rating": 4.2,
+      "ratings_total": 84,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 19.99,
+          "currency": "USD",
+          "raw": "$19.99",
+          "name": "Primary",
+          "is_primary": true
+        },
+        {
+          "symbol": "$",
+          "value": 21.99,
+          "currency": "USD",
+          "raw": "$21.99",
+          "name": "Original",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 19.99,
+        "currency": "USD",
+        "raw": "$19.99",
+        "name": "Primary",
+        "is_primary": true
+      },
+      "page": 2,
+      "position_overall": 43
+    },
+    {
+      "position": 12,
+      "title": "Samsung BAR Plus 256GB - 400MB/s USB 3.1 Flash Drive Titan Gray (MUF-256BE4/AM)",
+      "asin": "B07BPKL2D2",
+      "link": "https://www.amazon.com/Samsung-BAR-Plus-256GB-MUF-256BE4/dp/B07BPKL2D2/ref=sr_1_23?keywords=usb&qid=1685455503&sr=8-23",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/81Sw-hOdbyL._AC_UY218_.jpg",
+      "rating": 4.7,
+      "ratings_total": 4247,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 29.99,
+          "currency": "USD",
+          "raw": "$29.99",
+          "asin": "B07BPKL2D2",
+          "link": "https://www.amazon.com/Samsung-BAR-Plus-256GB-MUF-256BE4/dp/B07BPKL2D2/ref=sr_1_23?keywords=usb&qid=1685455503&sr=8-23"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 29.99,
+        "currency": "USD",
+        "raw": "$29.99",
+        "asin": "B07BPKL2D2",
+        "link": "https://www.amazon.com/Samsung-BAR-Plus-256GB-MUF-256BE4/dp/B07BPKL2D2/ref=sr_1_23?keywords=usb&qid=1685455503&sr=8-23"
+      },
+      "page": 2,
+      "position_overall": 44
+    },
+    {
+      "position": 13,
+      "title": "SanDisk 512GB Ultra Fit USB 3.1 Flash Drive - SDCZ430-512G-G46",
+      "asin": "B083ZS4HYD",
+      "link": "https://www.amazon.com/SanDisk-512GB-Ultra-Flash-Drive/dp/B083ZS4HYD/ref=sr_1_24?keywords=usb&qid=1685455503&sr=8-24",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/91hj35fWtUL._AC_UY218_.jpg",
+      "rating": 4.6,
+      "ratings_total": 59675,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 38.99,
+          "currency": "USD",
+          "raw": "$38.99",
+          "name": "Primary",
+          "is_primary": true
+        },
+        {
+          "symbol": "$",
+          "value": 89.99,
+          "currency": "USD",
+          "raw": "$89.99",
+          "name": "Original",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 38.99,
+        "currency": "USD",
+        "raw": "$38.99",
+        "name": "Primary",
+        "is_primary": true
+      },
+      "page": 2,
+      "position_overall": 45
+    },
+    {
+      "position": 14,
+      "title": "SanDisk 128GB Ultra Dual Drive USB Type-C - USB-C, USB 3.1 - SDDDC2-128G-G46",
+      "asin": "B01EZ0X55C",
+      "link": "https://www.amazon.com/SanDisk-128GB-Ultra-Drive-Type-C/dp/B01EZ0X55C/ref=sr_1_25?keywords=usb&qid=1685455503&sr=8-25",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61N2p3aTAYL._AC_UY218_.jpg",
+      "rating": 4.5,
+      "ratings_total": 90303,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 15.71,
+          "currency": "USD",
+          "raw": "$15.71",
+          "name": "Primary",
+          "is_primary": true
+        },
+        {
+          "symbol": "$",
+          "value": 59.99,
+          "currency": "USD",
+          "raw": "$59.99",
+          "name": "Original",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 15.71,
+        "currency": "USD",
+        "raw": "$15.71",
+        "name": "Primary",
+        "is_primary": true
+      },
+      "page": 2,
+      "position_overall": 46
+    },
+    {
+      "position": 15,
+      "title": "DataOcean 2 Pack 64GB USB 2.0 Flash Drive Memory Stick Thumb Drives Swivel Design(2 X 64GB: Black Silver)",
+      "asin": "B07Q3Y5J5T",
+      "link": "https://www.amazon.com/DataOcean-64GB-Memory-Drives-Swivel/dp/B07Q3Y5J5T/ref=sr_1_26?keywords=usb&qid=1685455503&sr=8-26",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71zdtAdaj0L._AC_UY218_.jpg",
+      "rating": 4.5,
+      "ratings_total": 3809,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 7.99,
+          "currency": "USD",
+          "raw": "$7.99",
+          "asin": "B07Q3Y5J5T",
+          "link": "https://www.amazon.com/DataOcean-64GB-Memory-Drives-Swivel/dp/B07Q3Y5J5T/ref=sr_1_26?keywords=usb&qid=1685455503&sr=8-26"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 7.99,
+        "currency": "USD",
+        "raw": "$7.99",
+        "asin": "B07Q3Y5J5T",
+        "link": "https://www.amazon.com/DataOcean-64GB-Memory-Drives-Swivel/dp/B07Q3Y5J5T/ref=sr_1_26?keywords=usb&qid=1685455503&sr=8-26"
+      },
+      "page": 2,
+      "position_overall": 47
+    },
+    {
+      "position": 16,
+      "title": "DataOcean 10 Pack 32GB USB 2.0 Flash Drive Memory Stick Thumb Drives (10 Mixed Colors)",
+      "asin": "B09XLNVKMS",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg2_1?ie=UTF8&adId=A08175821DURX18J8EQ0B&qualifier=1685455503&id=596207801633999&widgetName=sp_mtf&url=%2FDataOcean-Flash-Memory-Drives-Colors%2Fdp%2FB09XLNVKMS%2Fref%3Dsr_1_27_sspa%3Fkeywords%3Dusb%26qid%3D1685455503%26sr%3D8-27-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71EOlTuE1dL._AC_UY218_.jpg",
+      "rating": 4.4,
+      "ratings_total": 390,
+      "sponsored": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 22.94,
+          "currency": "USD",
+          "raw": "$22.94",
+          "asin": "B09XLNVKMS",
+          "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg2_1?ie=UTF8&adId=A08175821DURX18J8EQ0B&qualifier=1685455503&id=596207801633999&widgetName=sp_mtf&url=%2FDataOcean-Flash-Memory-Drives-Colors%2Fdp%2FB09XLNVKMS%2Fref%3Dsr_1_27_sspa%3Fkeywords%3Dusb%26qid%3D1685455503%26sr%3D8-27-spons%26psc%3D1"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 22.94,
+        "currency": "USD",
+        "raw": "$22.94",
+        "asin": "B09XLNVKMS",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg2_1?ie=UTF8&adId=A08175821DURX18J8EQ0B&qualifier=1685455503&id=596207801633999&widgetName=sp_mtf&url=%2FDataOcean-Flash-Memory-Drives-Colors%2Fdp%2FB09XLNVKMS%2Fref%3Dsr_1_27_sspa%3Fkeywords%3Dusb%26qid%3D1685455503%26sr%3D8-27-spons%26psc%3D1"
+      },
+      "page": 2,
+      "position_overall": 48
+    },
+    {
+      "position": 17,
+      "title": "USB Hub 4 in 1, USB to USB 3.0 USB 2.0,4 Ports Portable USB Splitter Mini USB Docking Station Compatible with MacBook,iPad Pro,Dell HP Laptop,Phones…",
+      "asin": "B0B5D3QJTC",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg2_1?ie=UTF8&adId=A1040863XEL6ANW6CT21&qualifier=1685455503&id=596207801633999&widgetName=sp_mtf&url=%2FPortable-Splitter-Docking-Station-Compatible%2Fdp%2FB0B5D3QJTC%2Fref%3Dsr_1_28_sspa%3Fkeywords%3Dusb%26qid%3D1685455503%26sr%3D8-28-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/41zwwsYEAxL._AC_UY218_.jpg",
+      "rating": 4.4,
+      "ratings_total": 244,
+      "sponsored": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 5.99,
+          "currency": "USD",
+          "raw": "$5.99",
+          "asin": "B0B5D3QJTC",
+          "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg2_1?ie=UTF8&adId=A1040863XEL6ANW6CT21&qualifier=1685455503&id=596207801633999&widgetName=sp_mtf&url=%2FPortable-Splitter-Docking-Station-Compatible%2Fdp%2FB0B5D3QJTC%2Fref%3Dsr_1_28_sspa%3Fkeywords%3Dusb%26qid%3D1685455503%26sr%3D8-28-spons%26psc%3D1"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 5.99,
+        "currency": "USD",
+        "raw": "$5.99",
+        "asin": "B0B5D3QJTC",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg2_1?ie=UTF8&adId=A1040863XEL6ANW6CT21&qualifier=1685455503&id=596207801633999&widgetName=sp_mtf&url=%2FPortable-Splitter-Docking-Station-Compatible%2Fdp%2FB0B5D3QJTC%2Fref%3Dsr_1_28_sspa%3Fkeywords%3Dusb%26qid%3D1685455503%26sr%3D8-28-spons%26psc%3D1"
+      },
+      "page": 2,
+      "position_overall": 49
+    },
+    {
+      "position": 18,
+      "title": "Aiibe 64GB Flash Drive 2 Pack 64GB USB Flash Drive Thumb Drive Zip Drive USB 2.0 Memory Stick USB Drive with Keychain (64G, 2 Colors: Black Green)",
+      "asin": "B09K7FBSHM",
+      "link": "https://www.amazon.com/Aiibe-Flash-Memory-Keychain-Colors/dp/B09K7FBSHM/ref=sr_1_29?keywords=usb&qid=1685455503&sr=8-29",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/618IWD2QvcL._AC_UY218_.jpg",
+      "unit_price": "$5.50/Count",
+      "rating": 4.5,
+      "ratings_total": 2563,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 10.99,
+          "currency": "USD",
+          "raw": "$10.99",
+          "asin": "B09K7FBSHM",
+          "link": "https://www.amazon.com/Aiibe-Flash-Memory-Keychain-Colors/dp/B09K7FBSHM/ref=sr_1_29?keywords=usb&qid=1685455503&sr=8-29"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 10.99,
+        "currency": "USD",
+        "raw": "$10.99",
+        "asin": "B09K7FBSHM",
+        "link": "https://www.amazon.com/Aiibe-Flash-Memory-Keychain-Colors/dp/B09K7FBSHM/ref=sr_1_29?keywords=usb&qid=1685455503&sr=8-29"
+      },
+      "page": 2,
+      "position_overall": 50
+    },
+    {
+      "position": 19,
+      "title": "2TB USB Flash Drive, 2000GB USB Thumb Drive, Waterproof Large Data Storage USB Memory Stick, High Speed Portable Jump Drive Pen Drive Storage with Keychain",
+      "asin": "B0C54ZFDDY",
+      "link": "https://www.amazon.com/2000GB-Waterproof-Storage-Portable-Keychain/dp/B0C54ZFDDY/ref=sr_1_30?keywords=usb&qid=1685455503&sr=8-30",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/41HqAlVv7PL._AC_UY218_.jpg",
+      "coupon": {
+        "badge_text": "Save 30%",
+        "text": "with coupon"
+      },
+      "rating": 4.8,
+      "ratings_total": 30,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 30.98,
+          "currency": "USD",
+          "raw": "$30.98",
+          "asin": "B0C54ZFDDY",
+          "link": "https://www.amazon.com/2000GB-Waterproof-Storage-Portable-Keychain/dp/B0C54ZFDDY/ref=sr_1_30?keywords=usb&qid=1685455503&sr=8-30"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 30.98,
+        "currency": "USD",
+        "raw": "$30.98",
+        "asin": "B0C54ZFDDY",
+        "link": "https://www.amazon.com/2000GB-Waterproof-Storage-Portable-Keychain/dp/B0C54ZFDDY/ref=sr_1_30?keywords=usb&qid=1685455503&sr=8-30"
+      },
+      "page": 2,
+      "position_overall": 51
+    },
+    {
+      "position": 20,
+      "title": "Ahinsoa USB Flash Drives 1TB, Portable Thumb Drive- High Speed USB Drive Memory Stick Ultra Large Data USB Stick 1000GB Storage, Waterproof Jump Drive Pen Flashdrive with Keychain",
+      "asin": "B0BYNHXCPD",
+      "link": "https://www.amazon.com/Ahinsoa-Portable-Waterproof-Flashdrive-Keychain/dp/B0BYNHXCPD/ref=sr_1_31?keywords=usb&qid=1685455503&sr=8-31",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/51Q1c2PXssL._AC_UY218_.jpg",
+      "rating": 4.1,
+      "ratings_total": 60,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 21.99,
+          "currency": "USD",
+          "raw": "$21.99",
+          "name": "Primary",
+          "is_primary": true
+        },
+        {
+          "symbol": "$",
+          "value": 25.99,
+          "currency": "USD",
+          "raw": "$25.99",
+          "name": "Original",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 21.99,
+        "currency": "USD",
+        "raw": "$21.99",
+        "name": "Primary",
+        "is_primary": true
+      },
+      "page": 2,
+      "position_overall": 52
+    },
+    {
+      "position": 21,
+      "title": "USB 3.0 Hub, VIENON 4-Port USB Hub USB Splitter USB Expander for Laptop, Xbox, Flash Drive, HDD, Console, Printer, Camera,Keyborad, Mouse",
+      "asin": "B09MLRPTT2",
+      "link": "https://www.amazon.com/Extender-Splitter-MacBook-Chromebook-Pixelbook/dp/B09MLRPTT2/ref=sr_1_32?keywords=usb&qid=1685455503&sr=8-32",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/51MiG9+u4lL._AC_UY218_.jpg",
+      "rating": 4.5,
+      "ratings_total": 4077,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 7.99,
+          "currency": "USD",
+          "raw": "$7.99",
+          "asin": "B09MLRPTT2",
+          "link": "https://www.amazon.com/Extender-Splitter-MacBook-Chromebook-Pixelbook/dp/B09MLRPTT2/ref=sr_1_32?keywords=usb&qid=1685455503&sr=8-32"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 7.99,
+        "currency": "USD",
+        "raw": "$7.99",
+        "asin": "B09MLRPTT2",
+        "link": "https://www.amazon.com/Extender-Splitter-MacBook-Chromebook-Pixelbook/dp/B09MLRPTT2/ref=sr_1_32?keywords=usb&qid=1685455503&sr=8-32"
+      },
+      "page": 2,
+      "position_overall": 53
+    },
+    {
+      "position": 22,
+      "title": "PNY 128GB Attaché 4 USB 2.0 Flash Drive, black",
+      "asin": "B01AB8D8OU",
+      "link": "https://www.amazon.com/PNY-128GB-Attach%C3%A9-Flash-Drive/dp/B01AB8D8OU/ref=sr_1_33?keywords=usb&qid=1685455503&sr=8-33",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/7133V6640OL._AC_UY218_.jpg",
+      "rating": 4.5,
+      "ratings_total": 8494,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 8.99,
+          "currency": "USD",
+          "raw": "$8.99",
+          "name": "Primary",
+          "is_primary": true
+        },
+        {
+          "symbol": "$",
+          "value": 17.99,
+          "currency": "USD",
+          "raw": "$17.99",
+          "name": "Original",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 8.99,
+        "currency": "USD",
+        "raw": "$8.99",
+        "name": "Primary",
+        "is_primary": true
+      },
+      "page": 2,
+      "position_overall": 54
+    },
+    {
+      "position": 23,
+      "title": "USB Drive 1TB for Phone with USB-C, WOFICLO USB3.0 to USB Type-c Flash Drive 1000GB,High-Speed Transmission Memory Stick for Mac pro,Samsung Galaxy,iPad Pro(2018-2022),PC.",
+      "asin": "B0C3L3XKRM",
+      "link": "https://www.amazon.com/WOFICLO-High-Speed-Transmission-Samsung-2018-2022/dp/B0C3L3XKRM/ref=sr_1_34?keywords=usb&qid=1685455503&sr=8-34",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/31plAbLgcfL._AC_UY218_.jpg",
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 56.92,
+          "currency": "USD",
+          "raw": "$56.92",
+          "asin": "B0C3L3XKRM",
+          "link": "https://www.amazon.com/WOFICLO-High-Speed-Transmission-Samsung-2018-2022/dp/B0C3L3XKRM/ref=sr_1_34?keywords=usb&qid=1685455503&sr=8-34"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 56.92,
+        "currency": "USD",
+        "raw": "$56.92",
+        "asin": "B0C3L3XKRM",
+        "link": "https://www.amazon.com/WOFICLO-High-Speed-Transmission-Samsung-2018-2022/dp/B0C3L3XKRM/ref=sr_1_34?keywords=usb&qid=1685455503&sr=8-34"
+      },
+      "page": 2,
+      "position_overall": 55
+    },
+    {
+      "position": 24,
+      "title": "Kingston DataTraveler Kyson 32GB High Performance USB 3.2 Metal Flash Drive | Speeds up to 200MB/s | DTKN/32GB, Silver",
+      "asin": "B08KHTRF61",
+      "link": "https://www.amazon.com/Kingston-DataTraveler-Kyson-32GB-DTKN/dp/B08KHTRF61/ref=sr_1_35?keywords=usb&qid=1685455503&sr=8-35",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71-AqIb4qYL._AC_UY218_.jpg",
+      "rating": 4.5,
+      "ratings_total": 6615,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 6.17,
+          "currency": "USD",
+          "raw": "$6.17",
+          "name": "Primary",
+          "is_primary": true
+        },
+        {
+          "symbol": "$",
+          "value": 7.99,
+          "currency": "USD",
+          "raw": "$7.99",
+          "name": "Original",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 6.17,
+        "currency": "USD",
+        "raw": "$6.17",
+        "name": "Primary",
+        "is_primary": true
+      },
+      "delivery": {
+        "tagline": "Get it Tue, Jun 27 - Wed, Jul 19"
+      },
+      "page": 2,
+      "position_overall": 56
+    },
+    {
+      "position": 25,
+      "title": "Flash Drive 256GB for iPhone USB Memory Stick Thumb Drives High Speed USB Stick,Photo Stick External Storage for iPhone/iPad/Android/PC(Blue)",
+      "asin": "B09PTM4QNH",
+      "link": "https://www.amazon.com/iPhone-Memory-External-Storage-Android/dp/B09PTM4QNH/ref=sr_1_36?keywords=usb&qid=1685455503&sr=8-36",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61vBfBDLjuL._AC_UY218_.jpg",
+      "rating": 4.3,
+      "ratings_total": 5677,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 29.99,
+          "currency": "USD",
+          "raw": "$29.99",
+          "name": "Primary",
+          "is_primary": true
+        },
+        {
+          "symbol": "$",
+          "value": 32.99,
+          "currency": "USD",
+          "raw": "$32.99",
+          "name": "Original",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 29.99,
+        "currency": "USD",
+        "raw": "$29.99",
+        "name": "Primary",
+        "is_primary": true
+      },
+      "page": 2,
+      "position_overall": 57
+    },
+    {
+      "position": 26,
+      "title": "SANKESU 32GB 2 Pack USB Flash Drives 3.0 USB Memory Stick Rotating Design,High Speed Thumb Drive Jump Drive with LED Light Data Storage for PC/Laptop/Car/TV and More (2 Colors: Black Blue)",
+      "asin": "B0C2PN7YB6",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg2_1?ie=UTF8&adId=A0391748TCITY5WOE2RD&qualifier=1685455503&id=596207801633999&widgetName=sp_btf&url=%2FSANKESU-Drives-Memory-Rotating-Storage%2Fdp%2FB0C2PN7YB6%2Fref%3Dsr_1_37_sspa%3Fkeywords%3Dusb%26qid%3D1685455503%26sr%3D8-37-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/51UelOrLJsL._AC_UY218_.jpg",
+      "coupon": {
+        "badge_text": "Save 5%",
+        "text": "with coupon"
+      },
+      "rating": 4.4,
+      "ratings_total": 58,
+      "sponsored": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 8.49,
+          "currency": "USD",
+          "raw": "$8.49",
+          "asin": "B0C2PN7YB6",
+          "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg2_1?ie=UTF8&adId=A0391748TCITY5WOE2RD&qualifier=1685455503&id=596207801633999&widgetName=sp_btf&url=%2FSANKESU-Drives-Memory-Rotating-Storage%2Fdp%2FB0C2PN7YB6%2Fref%3Dsr_1_37_sspa%3Fkeywords%3Dusb%26qid%3D1685455503%26sr%3D8-37-spons%26psc%3D1"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 8.49,
+        "currency": "USD",
+        "raw": "$8.49",
+        "asin": "B0C2PN7YB6",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg2_1?ie=UTF8&adId=A0391748TCITY5WOE2RD&qualifier=1685455503&id=596207801633999&widgetName=sp_btf&url=%2FSANKESU-Drives-Memory-Rotating-Storage%2Fdp%2FB0C2PN7YB6%2Fref%3Dsr_1_37_sspa%3Fkeywords%3Dusb%26qid%3D1685455503%26sr%3D8-37-spons%26psc%3D1"
+      },
+      "page": 2,
+      "position_overall": 58
+    },
+    {
+      "position": 27,
+      "title": "Lucktiger 1TB USB Flash Drive | Waterproof Large Data Storage USB Memory Stick | High Speed Portable Jump Drive Pen Drive Come with Keychain Flash Drive,Thumb Drive",
+      "asin": "B0BPXVD6SC",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg2_1?ie=UTF8&adId=A09448842KYYR3KED49IX&qualifier=1685455503&id=596207801633999&widgetName=sp_btf&url=%2FLucktiger-Waterproof-Storage-Portable-Keychain%2Fdp%2FB0BPXVD6SC%2Fref%3Dsr_1_38_sspa%3Fkeywords%3Dusb%26qid%3D1685455503%26sr%3D8-38-spons%26psc%3D1",
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/510MONO6wvL._AC_UY218_.jpg",
+      "rating": 1,
+      "ratings_total": 1,
+      "sponsored": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 25.99,
+          "currency": "USD",
+          "raw": "$25.99",
+          "asin": "B0BPXVD6SC",
+          "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg2_1?ie=UTF8&adId=A09448842KYYR3KED49IX&qualifier=1685455503&id=596207801633999&widgetName=sp_btf&url=%2FLucktiger-Waterproof-Storage-Portable-Keychain%2Fdp%2FB0BPXVD6SC%2Fref%3Dsr_1_38_sspa%3Fkeywords%3Dusb%26qid%3D1685455503%26sr%3D8-38-spons%26psc%3D1"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 25.99,
+        "currency": "USD",
+        "raw": "$25.99",
+        "asin": "B0BPXVD6SC",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg2_1?ie=UTF8&adId=A09448842KYYR3KED49IX&qualifier=1685455503&id=596207801633999&widgetName=sp_btf&url=%2FLucktiger-Waterproof-Storage-Portable-Keychain%2Fdp%2FB0BPXVD6SC%2Fref%3Dsr_1_38_sspa%3Fkeywords%3Dusb%26qid%3D1685455503%26sr%3D8-38-spons%26psc%3D1"
+      },
+      "page": 2,
+      "position_overall": 59
+    }
+  ],
+  "category_information": {
+    "is_landing_page": false
+  },
+  "related_searches": [
+    {
+      "query": "usb cable",
+      "link": "https://www.amazon.com/s/?k=usb+cable&ref=sugsr_0&pd_rd_w=WntvM&content-id=amzn1.sym.1b55e175-aab2-4228-be7e-b2330901df8b:amzn1.sym.1b55e175-aab2-4228-be7e-b2330901df8b&pf_rd_p=1b55e175-aab2-4228-be7e-b2330901df8b&pf_rd_r=JNB7S4QXWF4ZR2VE1ANN&pd_rd_wg=lR5pj&pd_rd_r=d1acbad9-358b-4493-96f0-c910bfca692d&qid=1685455475"
+    },
+    {
+      "query": "usb c cable",
+      "link": "https://www.amazon.com/s/?k=usb+c+cable&ref=sugsr_3&pd_rd_w=WntvM&content-id=amzn1.sym.1b55e175-aab2-4228-be7e-b2330901df8b:amzn1.sym.1b55e175-aab2-4228-be7e-b2330901df8b&pf_rd_p=1b55e175-aab2-4228-be7e-b2330901df8b&pf_rd_r=JNB7S4QXWF4ZR2VE1ANN&pd_rd_wg=lR5pj&pd_rd_r=d1acbad9-358b-4493-96f0-c910bfca692d&qid=1685455475"
+    },
+    {
+      "query": "usb drive",
+      "link": "https://www.amazon.com/s/?k=usb+drive&ref=sugsr_1&pd_rd_w=WntvM&content-id=amzn1.sym.1b55e175-aab2-4228-be7e-b2330901df8b:amzn1.sym.1b55e175-aab2-4228-be7e-b2330901df8b&pf_rd_p=1b55e175-aab2-4228-be7e-b2330901df8b&pf_rd_r=JNB7S4QXWF4ZR2VE1ANN&pd_rd_wg=lR5pj&pd_rd_r=d1acbad9-358b-4493-96f0-c910bfca692d&qid=1685455475"
+    },
+    {
+      "query": "usb charger",
+      "link": "https://www.amazon.com/s/?k=usb+charger&ref=sugsr_4&pd_rd_w=WntvM&content-id=amzn1.sym.1b55e175-aab2-4228-be7e-b2330901df8b:amzn1.sym.1b55e175-aab2-4228-be7e-b2330901df8b&pf_rd_p=1b55e175-aab2-4228-be7e-b2330901df8b&pf_rd_r=JNB7S4QXWF4ZR2VE1ANN&pd_rd_wg=lR5pj&pd_rd_r=d1acbad9-358b-4493-96f0-c910bfca692d&qid=1685455475"
+    },
+    {
+      "query": "usb hub",
+      "link": "https://www.amazon.com/s/?k=usb+hub&ref=sugsr_2&pd_rd_w=WntvM&content-id=amzn1.sym.1b55e175-aab2-4228-be7e-b2330901df8b:amzn1.sym.1b55e175-aab2-4228-be7e-b2330901df8b&pf_rd_p=1b55e175-aab2-4228-be7e-b2330901df8b&pf_rd_r=JNB7S4QXWF4ZR2VE1ANN&pd_rd_wg=lR5pj&pd_rd_r=d1acbad9-358b-4493-96f0-c910bfca692d&qid=1685455475"
+    },
+    {
+      "query": "usb 1tb",
+      "link": "https://www.amazon.com/s/?k=usb+1tb&ref=sugsr_5&pd_rd_w=WntvM&content-id=amzn1.sym.1b55e175-aab2-4228-be7e-b2330901df8b:amzn1.sym.1b55e175-aab2-4228-be7e-b2330901df8b&pf_rd_p=1b55e175-aab2-4228-be7e-b2330901df8b&pf_rd_r=JNB7S4QXWF4ZR2VE1ANN&pd_rd_wg=lR5pj&pd_rd_r=d1acbad9-358b-4493-96f0-c910bfca692d&qid=1685455475"
+    }
+  ],
+  "related_brands": [
+    {
+      "logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/937bba4f-9cc4-421d-a718-25e44d9454b3._AC_SX139_SY100_QL70_.png",
+      "image": "https://m.media-amazon.com/images/I/61EA68+rd2L._AC_SR139,139_QL70_.jpg",
+      "title": "1 Click Photo & Video Backup For All DevicesShop ThePhotoStick",
+      "link": "https://aax-us-iad.amazon.com/x/c/RKa9T4lODjWm17QRlwe5DsEAAAGIbPmT3gEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBhNvQD/https://www.amazon.com/stores/ThePhotoStick/Homepage/page/3332B7BF-B937-4FBA-BC7F-40EE267AE615/?_encoding=UTF8&store_ref=SB_A04558642BFYHG1GUJ8IJ&pd_rd_plhdr=t&aaxitk=33794b438b0d0131fae0e5ed3aa23fc3&hsa_cr_id=0&lp_asins=B0BDT2N5XD%2CB09GW86W6Y%2CB09GW7QWGV&lp_query=usb&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_cta&pd_rd_w=nFuwY&content-id=amzn1.sym.5594c86b-e694-4e3e-9301-a074f0faf98a%3Aamzn1.sym.5594c86b-e694-4e3e-9301-a074f0faf98a&pf_rd_p=5594c86b-e694-4e3e-9301-a074f0faf98a&pf_rd_r=JNB7S4QXWF4ZR2VE1ANN&pd_rd_wg=o51Ia&pd_rd_r=d772aaf9-5c8a-4f54-bdbb-c5d19f8af317",
+      "store_link": "https://www.amazon.com/stores/ThePhotoStick/Homepage/page/3332B7BF-B937-4FBA-BC7F-40EE267AE615",
+      "store_id": "3332B7BF-B937-4FBA-BC7F-40EE267AE615",
+      "store_name": "ThePhotoStick"
+    },
+    {
+      "logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e302a74d-1423-44ac-bedc-64443bd8a4f3._CR0,0,400,400_AC_SX139_SY100_QL70_.png",
+      "image": "https://m.media-amazon.com/images/I/91hj35fWtUL._AC_SR139,139_QL70_.jpg",
+      "title": "Add space, fast. Just plug it in.Shop SanDisk",
+      "link": "https://aax-us-iad.amazon.com/x/c/RDe5uHaGDv2hHGi7m_GZhZ0AAAGIbPmT3gEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICDHLGeT/https://www.amazon.com/stores/page/9C2ED2D2-40F8-4666-A6FC-AB235B7396C8/?_encoding=UTF8&store_ref=SB_A05513211DHLG8KRDSUXD&pd_rd_plhdr=t&aaxitk=3f0f19929ced88c2cea2a0e12244e217&hsa_cr_id=9493198620001&lp_asins=B07857Y17V%2CB083ZRDXSQ%2CB08GYPZ8GN&lp_query=usb&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_cta&pd_rd_w=nFuwY&content-id=amzn1.sym.5594c86b-e694-4e3e-9301-a074f0faf98a%3Aamzn1.sym.5594c86b-e694-4e3e-9301-a074f0faf98a&pf_rd_p=5594c86b-e694-4e3e-9301-a074f0faf98a&pf_rd_r=JNB7S4QXWF4ZR2VE1ANN&pd_rd_wg=o51Ia&pd_rd_r=d772aaf9-5c8a-4f54-bdbb-c5d19f8af317",
+      "store_link": "https://www.amazon.com/stores/page/9C2ED2D2-40F8-4666-A6FC-AB235B7396C8",
+      "store_id": "9C2ED2D2-40F8-4666-A6FC-AB235B7396C8",
+      "store_name": "SanDisk"
+    },
+    {
+      "logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2b1cdbb7-2df2-47b6-9684-99ebf96ce32c._AC_SX139_SY100_QL70_.jpg",
+      "image": "https://m.media-amazon.com/images/I/51qLzw50BcS._AC_SR139,139_QL70_.jpg",
+      "title": "BATIGE Car Mount Flush USB Cable ExpertShop BATIGE",
+      "link": "https://aax-us-iad.amazon.com/x/c/RETp-nD1lakBx6A5ZySCMFAAAAGIbPmT3gEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBsZENR/https://www.amazon.com/stores/page/ADB1F3D7-7733-487F-B5AB-6F021FF57798/?_encoding=UTF8&store_ref=SB_A0757772OMLF0HV7KO9A&pd_rd_plhdr=t&aaxitk=66c291198f76f3cea22398d7c38af320&hsa_cr_id=4596995920301&lp_asins=B078LRSZDB%2CB01NCA9XEI%2CB01N66N1JK&lp_query=usb&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_cta&pd_rd_w=nFuwY&content-id=amzn1.sym.5594c86b-e694-4e3e-9301-a074f0faf98a%3Aamzn1.sym.5594c86b-e694-4e3e-9301-a074f0faf98a&pf_rd_p=5594c86b-e694-4e3e-9301-a074f0faf98a&pf_rd_r=JNB7S4QXWF4ZR2VE1ANN&pd_rd_wg=o51Ia&pd_rd_r=d772aaf9-5c8a-4f54-bdbb-c5d19f8af317",
+      "store_link": "https://www.amazon.com/stores/page/ADB1F3D7-7733-487F-B5AB-6F021FF57798",
+      "store_id": "ADB1F3D7-7733-487F-B5AB-6F021FF57798",
+      "store_name": "BATIGE"
+    }
+  ],
+  "pagination": {
+    "pages": [
+      {
+        "total_results": 3000,
+        "current_page": 1,
+        "next_page_link": "https://www.amazon.com/s?k=usb&page=2&qid=1685455475&ref=sr_pg_2",
+        "total_pages": 20
+      },
+      {
+        "total_results": 2000,
+        "current_page": 2,
+        "next_page_link": "https://www.amazon.com/s?k=usb&page=3&qid=1685455503&ref=sr_pg_3",
+        "total_pages": 20
+      }
+    ]
+  },
+  "refinements": {
+    "prime": [
+      {
+        "name": "Free Shipping by Amazon",
+        "value": "n:172282||p_76/1249137011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_76%3A1249137011&dc&qid=1685455475&rnid=1249135011&ref=sr_nr_p_76_1&ds=v1%3AYoEiW%2FFDXDmgV5IocED42CQ5rxPxeT2IccGHnhefH0Y",
+        "refinement_display_name": "Prime"
+      }
+    ],
+    "delivery": [
+      {
+        "name": "Get It by Tomorrow",
+        "value": "p_90/8308921011",
+        "link": "https://www.amazon.com/s?k=usb&rh=p_90%3A8308921011&dc&qid=1685455475&rnid=8308919011&ref=sr_nr_p_90_1&ds=v1%3A4kVkoP3aR5iMaoRQyXOECcKRaSjRIkeK5ijp3EIFCfw",
+        "refinement_display_name": "Delivery"
+      }
+    ],
+    "departments": [
+      {
+        "name": "Data Storage",
+        "value": "n/1292110011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A1292110011&dc&qid=1685455475&rnid=2941120011&ref=sr_nr_n_1&ds=v1%3A0HaaymmGz5WKhhNi7%2FiS6ejp79BwEid2%2FZnGobWgCRY",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "USB Flash Drives",
+        "value": "n/3151491",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A1292110011%2Cn%3A3151491&dc&qid=1685455475&rnid=2941120011&ref=sr_nr_n_2&ds=v1%3AYjzXuUOQlO2Q4UDI0j5ZYb4aSMfsHHvI5AKsyltkf2s",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Computer Accessories & Peripherals",
+        "value": "n/172456",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172456&dc&qid=1685455475&rnid=2941120011&ref=sr_nr_n_3&ds=v1%3ARFBatDB2K%2FEPJORawMoUaLLx29X79cnR88SWdBfksHE",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "USB Hubs",
+        "value": "n/17387627011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172456%2Cn%3A17387627011&dc&qid=1685455475&rnid=2941120011&ref=sr_nr_n_4&ds=v1%3AHY0TfCFhW06Bei9v%2FwHjT0NUueVGWK%2BqNPll76k3CEY",
+        "refinement_display_name": "Departments"
+      }
+    ],
+    "reviews": [
+      {
+        "name": "4 Stars & Up",
+        "value": "n:172282||p_72/1248879011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_72%3A1248879011&dc&qid=1685455475&rnid=1248877011&ref=sr_nr_p_72_1&ds=v1%3A2ECLMVKbcdpnp8qCASQe6F1moFKbWV%2BixBEoqUy97kk",
+        "refinement_display_name": "Reviews"
+      },
+      {
+        "name": "3 Stars & Up",
+        "value": "n:172282||p_72/1248880011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_72%3A1248880011&dc&qid=1685455475&rnid=1248877011&ref=sr_nr_p_72_2&ds=v1%3AC%2BDbTv7bZXgusI2B6nXLkGnXUC%2Be8%2FGAKSOy4NlYeT4",
+        "refinement_display_name": "Reviews"
+      },
+      {
+        "name": "2 Stars & Up",
+        "value": "n:172282||p_72/1248881011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_72%3A1248881011&dc&qid=1685455475&rnid=1248877011&ref=sr_nr_p_72_3&ds=v1%3Aq2f5kq8QuS6UHNQZjFgqk5s2qMS9OOnxLVjZ8PyZkkE",
+        "refinement_display_name": "Reviews"
+      },
+      {
+        "name": "1 Star & Up",
+        "value": "n:172282||p_72/1248882011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_72%3A1248882011&dc&qid=1685455475&rnid=1248877011&ref=sr_nr_p_72_4&ds=v1%3AUnvNVowt%2FVIwjpH1%2BzgvVimlTYVo%2B3AUS49dNXEpjhU",
+        "refinement_display_name": "Reviews"
+      }
+    ],
+    "price": [
+      {
+        "name": "Under $25",
+        "value": "n:172282||p_36/1253503011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_36%3A1253503011&dc&qid=1685455475&rnid=386442011&ref=sr_nr_p_36_1&ds=v1%3AinSs%2BUpMxuIkAMGydvAB%2Ffozi%2Fzo7VUXQZ4%2FHrpVavs",
+        "refinement_display_name": "Price"
+      },
+      {
+        "name": "$25 to $50",
+        "value": "n:172282||p_36/1253504011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_36%3A1253504011&dc&qid=1685455475&rnid=386442011&ref=sr_nr_p_36_2&ds=v1%3ATMbbEw%2F0BfjwNMV3CD8jt5CgCGFpIo5%2BFA1x%2FD4AqH4",
+        "refinement_display_name": "Price"
+      },
+      {
+        "name": "$50 to $100",
+        "value": "n:172282||p_36/1253505011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_36%3A1253505011&dc&qid=1685455475&rnid=386442011&ref=sr_nr_p_36_3&ds=v1%3AZV%2B03SKpm6pWnYh1ZLzVTtVeAz3g%2F32AV7tbK0N%2BoOE",
+        "refinement_display_name": "Price"
+      },
+      {
+        "name": "$100 to $200",
+        "value": "n:172282||p_36/1253506011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_36%3A1253506011&dc&qid=1685455475&rnid=386442011&ref=sr_nr_p_36_4&ds=v1%3AarUeT9pah7UN7QscjJZg1E8%2Bar9qRoku3B9Q%2FjKKPAY",
+        "refinement_display_name": "Price"
+      },
+      {
+        "name": "$200 & Above",
+        "value": "n:172282||p_36/1253507011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_36%3A1253507011&dc&qid=1685455475&rnid=386442011&ref=sr_nr_p_36_5&ds=v1%3ATYTtYkpoMjGi5m5zd9AEXJOd40PSDAeRz9ltP%2FhaMq0",
+        "refinement_display_name": "Price"
+      },
+      {
+        "name": "$        $            Go",
+        "value": "p_36/price-range",
+        "refinement_display_name": "Price"
+      },
+      {
+        "name": "All Discounts",
+        "value": "p_n_deal_type/23566065011",
+        "link": "https://www.amazon.com/s?k=usb&rh=p_n_deal_type%3A23566065011&dc&qid=1685455475&rnid=23566063011&ref=sr_nr_p_n_deal_type_1&ds=v1%3AKsU%2BDlrFrAlHbyg%2Fy1Tq%2BVZspKHIDI5HhyDJZAkQZXs",
+        "refinement_display_name": "Price"
+      },
+      {
+        "name": "Today's Deals",
+        "value": "p_n_deal_type/23566064011",
+        "link": "https://www.amazon.com/s?k=usb&rh=p_n_deal_type%3A23566064011&dc&qid=1685455475&rnid=23566063011&ref=sr_nr_p_n_deal_type_2&ds=v1%3AZFNRPp2KPJl01EoPLk858w51kxyxlSlnvE0t%2BwYDOqk",
+        "refinement_display_name": "Price"
+      }
+    ],
+    "brand": [
+      {
+        "name": "SanDisk",
+        "value": "n:172282||p_89/SanDisk",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3ASanDisk&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_1&ds=v1%3ArFv6o1UFp%2BkBUOCKGk9Rs4o8akjgDOIcg%2BIgj4nStUg",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Kingston",
+        "value": "n:172282||p_89/Kingston",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3AKingston&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_2&ds=v1%3A3nI2uOeKs5P6%2BacHBS6KG9%2BAHa6dl18Pbp07co8Pgxk",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "PNY",
+        "value": "n:172282||p_89/PNY",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3APNY&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_3&ds=v1%3A6qa1ZpN7vxrrVjZceSrAbMWc8YLsTEjhjM%2BUY0qF%2FG4",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "SP Silicon Power",
+        "value": "n:172282||p_89/SP Silicon Power",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3ASP+Silicon+Power&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_4&ds=v1%3ArprD3LC%2Fi%2B3rUYZPFSjcU%2BqazA8cvDxrFpmf25JRCAU",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "HP",
+        "value": "n:172282||p_89/HP",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3AHP&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_5&ds=v1%3AsVnErmCfUiIeCvof7zssMXVHwVhIqTUqrT0q9fGJ2RA",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Generic",
+        "value": "n:172282||p_89/Generic",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3AGeneric&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_6&ds=v1%3AbQwHAzU6AMEviHmtpSgRoWbdmRpAkhwJev1tT18LlkA",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "SamData",
+        "value": "n:172282||p_89/SamData",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3ASamData&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_7&ds=v1%3AUfwkbVjqOy7juVi6Fz1ftlj%2F%2BTYjK%2BPZKJlcLyD26ds",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "LexarVerbatimTEAMGROUPINLANDmosDARTTOPESELAhinsoaAiibeVansunyExmaporAreTopTHKAILARWOFICLOORICOSIMMAXBosexyGigastoneBORLTER CLAMPFEBNISCTEK&ZZSunanyBiliousGarrulaxDelarsyhrongshk",
+        "value": "n:172282||undefined",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3ALexar&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_8&ds=v1%3ASdqQgOnYWLrtuKr1MIQkI9XX96LE887KQbkGUR8MMPE",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Lexar",
+        "value": "n:172282||p_89/Lexar",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3ALexar&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_8&ds=v1%3ASdqQgOnYWLrtuKr1MIQkI9XX96LE887KQbkGUR8MMPE",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Verbatim",
+        "value": "n:172282||p_89/Verbatim",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3AVerbatim&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_9&ds=v1%3AOeapjarj9KUn9yXWtOjT2fzqJ2KFJcdaGLtWqVx57b0",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "TEAMGROUP",
+        "value": "n:172282||p_89/TEAMGROUP",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3ATEAMGROUP&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_10&ds=v1%3ARuh2xMdkkkU9%2F4V%2FXjniyHgsatHw2tzRQNUlsz%2F36sU",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "INLAND",
+        "value": "n:172282||p_89/INLAND",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3AINLAND&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_11&ds=v1%3AXxeLe9eR6%2BpczzvZEVgnc9WJusDPSvSMYQoTKF3QnZc",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "mosDART",
+        "value": "n:172282||p_89/mosDART",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3AmosDART&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_12&ds=v1%3AJuYkcNWpYnt57lzj44THlU688zQ4jWIkl0lOAAZ9PTg",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "TOPESEL",
+        "value": "n:172282||p_89/TOPESEL",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3ATOPESEL&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_13&ds=v1%3Ak2FxcZ2uS1Y7DxurIVX3Zh4BiXN8BHTQVZa5jlWqIPA",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Ahinsoa",
+        "value": "n:172282||p_89/Ahinsoa",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3AAhinsoa&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_14&ds=v1%3AN0RBWF8H1yo%2Frb5Q%2FV87vV%2BiniOMbUne9lhQL0iIT8s",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Aiibe",
+        "value": "n:172282||p_89/Aiibe",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3AAiibe&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_15&ds=v1%3ARAtGYz95C1NDEuPN0PSIhEmjAbaSPyNreJC059YXefo",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Vansuny",
+        "value": "n:172282||p_89/Vansuny",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3AVansuny&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_16&ds=v1%3AGzIOMIEV%2BbN%2B1T5vaHhwrFERjI8vCDrC2sXLuIawc%2Fg",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Exmapor",
+        "value": "n:172282||p_89/Exmapor",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3AExmapor&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_17&ds=v1%3ARlSoEOJBtObA6eNMtqAZvlaQG%2B0ifbh0cDmZkVsl%2BIA",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "AreTop",
+        "value": "n:172282||p_89/AreTop",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3AAreTop&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_18&ds=v1%3Am5sWiwRE6yWKRsyltnHgCPrvN3%2FBBgpyZYAiO%2BwWRNE",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "THKAILAR",
+        "value": "n:172282||p_89/THKAILAR",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3ATHKAILAR&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_19&ds=v1%3AJQn5%2ByniEBj%2FVJSXUCJ0s2zeSIh2VBZSBdU%2Fgm0JuSY",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "WOFICLO",
+        "value": "n:172282||p_89/WOFICLO",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3AWOFICLO&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_20&ds=v1%3AnCP6pCtutugw07vvAocoLT0y%2FyEtcGC2ciQuGJXTlwE",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "ORICO",
+        "value": "n:172282||p_89/ORICO",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3AORICO&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_21&ds=v1%3Aqi2F0KhrmKkprSHz7wCcYgA1zzk4NNIpZAi5gyKCu%2FU",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "SIMMAX",
+        "value": "n:172282||p_89/SIMMAX",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3ASIMMAX&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_22&ds=v1%3A%2FyZlGiG7VLzK8axzadqF%2Bb7G0WgYGxLTNLGLDtJ%2Fnq0",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Bosexy",
+        "value": "n:172282||p_89/Bosexy",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3ABosexy&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_23&ds=v1%3A3BqlG6FnsxDzfFkO0HFn%2Fb0QUtC1QW8A%2BOX3lHFsKHk",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Gigastone",
+        "value": "n:172282||p_89/Gigastone",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3AGigastone&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_24&ds=v1%3AFlzCNtos6vCiuEMAnLRGSJx1LnSKU3GvI%2F2o6%2F2Fws4",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "BORLTER CLAMP",
+        "value": "n:172282||p_89/BORLTER CLAMP",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3ABORLTER+CLAMP&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_25&ds=v1%3AokrXKDjWUblcZ9Ov%2FEXWi1cIi%2FrD9T39kvC1lRD2CKY",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "FEBNISCTE",
+        "value": "n:172282||p_89/FEBNISCTE",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3AFEBNISCTE&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_26&ds=v1%3AOd2AluHYCmYntvolatk2xpUxme0KdBOWWjYoVvOVi9w",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "K&ZZ",
+        "value": "n:172282||p_89/K&ZZ",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3AK%26ZZ&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_27&ds=v1%3AYs0ms2iCiMm72XVVEXCo85OeHzmcqecAS88PPQYgqfg",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Sunany",
+        "value": "n:172282||p_89/Sunany",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3ASunany&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_28&ds=v1%3A6nnFeP4JSZC7%2F2Yyvtb817AZPucamP%2BkKPX%2FLKqA8m4",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Bilious",
+        "value": "n:172282||p_89/Bilious",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3ABilious&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_29&ds=v1%3AKMC8cUEqfJKqH0dsmwW5s0Ovm0r40EzkxkFD2TRr4SM",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Garrulax",
+        "value": "n:172282||p_89/Garrulax",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3AGarrulax&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_30&ds=v1%3AxKY4eFAuHVtd%2FqnAOii4hmhQamHHOyQJVLOCy47%2F%2FQ8",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Delarsy",
+        "value": "n:172282||p_89/Delarsy",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3ADelarsy&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_31&ds=v1%3AXCrbs3fWl8RiW3FgpY%2BJY9EBXPzQohAOV8ZQy3l7rfE",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "hrongshk",
+        "value": "n:172282||p_89/hrongshk",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_89%3Ahrongshk&dc&qid=1685455475&rnid=2528832011&ref=sr_nr_p_89_32&ds=v1%3ABjxots8UK4c%2FGi9ex6md6ns%2BJIZte28266aRiKKF%2FsA",
+        "refinement_display_name": "Brand"
+      }
+    ],
+    "data_storage_platform_support": [
+      {
+        "name": "Mac",
+        "value": "n:1292110011||p_n_feature_keywords_five_browse-bin/7688214011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A1292110011%2Cp_n_feature_keywords_five_browse-bin%3A7688214011&dc&qid=1685455475&rnid=7688213011&ref=sr_nr_p_n_feature_keywords_five_browse-bin_1&ds=v1%3A7nkp79qg9lqoM4yx7H%2FAk6wXVcBxPCoZVPMXcExzYoU",
+        "refinement_display_name": "Data Storage Platform Support"
+      },
+      {
+        "name": "PC",
+        "value": "n:1292110011||p_n_feature_keywords_five_browse-bin/7688215011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A1292110011%2Cp_n_feature_keywords_five_browse-bin%3A7688215011&dc&qid=1685455475&rnid=7688213011&ref=sr_nr_p_n_feature_keywords_five_browse-bin_2&ds=v1%3A3jpTkdJP3nKYxAT%2B0O565TTwnWB8shE5vf%2BEKWfKUVA",
+        "refinement_display_name": "Data Storage Platform Support"
+      }
+    ],
+    "flash_drive_hardware_interface": [
+      {
+        "name": "Lightning",
+        "value": "n:3151491||p_n_feature_two_browse-bin/58126216011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_feature_two_browse-bin%3A58126216011&dc&qid=1685455475&rnid=58126154011&ref=sr_nr_p_n_feature_two_browse-bin_1&ds=v1%3AIRT5aCO0D%2BmIGs%2Bis9jtz%2FGUV%2FCElAWD1GWnLzW052E",
+        "refinement_display_name": "Flash Drive Hardware Interface"
+      },
+      {
+        "name": "USB",
+        "value": "n:3151491||p_n_feature_two_browse-bin/58126209011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_feature_two_browse-bin%3A58126209011&dc&qid=1685455475&rnid=58126154011&ref=sr_nr_p_n_feature_two_browse-bin_2&ds=v1%3Abk%2BjtkyOcEMS%2FRyBg7n1tXLapalMngXX5Zv86vRogjg",
+        "refinement_display_name": "Flash Drive Hardware Interface"
+      },
+      {
+        "name": "USB 2.0",
+        "value": "n:3151491||p_n_feature_two_browse-bin/58126213011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_feature_two_browse-bin%3A58126213011&dc&qid=1685455475&rnid=58126154011&ref=sr_nr_p_n_feature_two_browse-bin_3&ds=v1%3Ad%2Be4DH3lNtUdw5bq7zSZSTRjQq9GAPXENptEdEtF1yA",
+        "refinement_display_name": "Flash Drive Hardware Interface"
+      },
+      {
+        "name": "USB 3.0",
+        "value": "n:3151491||p_n_feature_two_browse-bin/58126214011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_feature_two_browse-bin%3A58126214011&dc&qid=1685455475&rnid=58126154011&ref=sr_nr_p_n_feature_two_browse-bin_4&ds=v1%3AoeCHEWDKy82v2qZZrboU5n%2BLzlGVX5ZAWATzKuK%2Frv4",
+        "refinement_display_name": "Flash Drive Hardware Interface"
+      },
+      {
+        "name": "USB 3.2 Gen 1",
+        "value": "n:3151491||p_n_feature_two_browse-bin/58126211011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_feature_two_browse-bin%3A58126211011&dc&qid=1685455475&rnid=58126154011&ref=sr_nr_p_n_feature_two_browse-bin_5&ds=v1%3AJBgZlk5yweqlmqMKPiCGQN4RAKXauEf9UMNN1wv%2BSas",
+        "refinement_display_name": "Flash Drive Hardware Interface"
+      },
+      {
+        "name": "USB 3.2 Gen 2",
+        "value": "n:3151491||p_n_feature_two_browse-bin/58126208011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_feature_two_browse-bin%3A58126208011&dc&qid=1685455475&rnid=58126154011&ref=sr_nr_p_n_feature_two_browse-bin_6&ds=v1%3ARalsUcVR4AGd1muqyxGcKppsMCFdTTaHhFGoiR4yvV0",
+        "refinement_display_name": "Flash Drive Hardware Interface"
+      },
+      {
+        "name": "USB 1.0",
+        "value": "n:3151491||p_n_feature_two_browse-bin/58126210011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_feature_two_browse-bin%3A58126210011&dc&qid=1685455475&rnid=58126154011&ref=sr_nr_p_n_feature_two_browse-bin_7&ds=v1%3A%2B%2BdFoGP%2FHxTbQMElbFkgF70ak%2BxkBw%2Fi4BB2mEuJlEs",
+        "refinement_display_name": "Flash Drive Hardware Interface"
+      },
+      {
+        "name": "USB 1.1",
+        "value": "n:3151491||undefined",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_feature_two_browse-bin%3A58126215011&dc&qid=1685455475&rnid=58126154011&ref=sr_nr_p_n_feature_two_browse-bin_8&ds=v1%3AGAra4eTDfd%2FVea%2FrYjkdThpqTCDItgpR%2FDlz%2F61DRGY",
+        "refinement_display_name": "Flash Drive Hardware Interface"
+      },
+      {
+        "name": "USB 1.1",
+        "value": "n:3151491||p_n_feature_two_browse-bin/58126215011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_feature_two_browse-bin%3A58126215011&dc&qid=1685455475&rnid=58126154011&ref=sr_nr_p_n_feature_two_browse-bin_8&ds=v1%3AGAra4eTDfd%2FVea%2FrYjkdThpqTCDItgpR%2FDlz%2F61DRGY",
+        "refinement_display_name": "Flash Drive Hardware Interface"
+      }
+    ],
+    "flash_drive_capacity": [
+      {
+        "name": "1GB & Under",
+        "value": "n:3151491||p_n_size_browse-bin/3526443011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_size_browse-bin%3A3526443011&dc&qid=1685455475&rnid=1259751011&ref=sr_nr_p_n_size_browse-bin_1&ds=v1%3AZh040I%2FmSsTfK9ekAtgB4YYMQLbShhd%2BXVpLHNRGvcM",
+        "refinement_display_name": "Flash Drive Capacity"
+      },
+      {
+        "name": "2GB",
+        "value": "n:3151491||p_n_size_browse-bin/1259712011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_size_browse-bin%3A1259712011&dc&qid=1685455475&rnid=1259751011&ref=sr_nr_p_n_size_browse-bin_2&ds=v1%3ApfEwGU1DtLdPS2AWhaQ7%2Fp6NbFfSfyIqWY5ScAd2nhE",
+        "refinement_display_name": "Flash Drive Capacity"
+      },
+      {
+        "name": "4GB",
+        "value": "n:3151491||p_n_size_browse-bin/1259713011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_size_browse-bin%3A1259713011&dc&qid=1685455475&rnid=1259751011&ref=sr_nr_p_n_size_browse-bin_3&ds=v1%3ACxnQVRn0KESuY8b6IU7as8IB1MLUiJLP2N8G2Y8HMQE",
+        "refinement_display_name": "Flash Drive Capacity"
+      },
+      {
+        "name": "8GB",
+        "value": "n:3151491||p_n_size_browse-bin/1259714011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_size_browse-bin%3A1259714011&dc&qid=1685455475&rnid=1259751011&ref=sr_nr_p_n_size_browse-bin_4&ds=v1%3AklAcDLfFfNbdu7Tj7gQmRzfH%2FN%2BiLUiWHNPYZWkZEyk",
+        "refinement_display_name": "Flash Drive Capacity"
+      },
+      {
+        "name": "16GB",
+        "value": "n:3151491||p_n_size_browse-bin/1259715011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_size_browse-bin%3A1259715011&dc&qid=1685455475&rnid=1259751011&ref=sr_nr_p_n_size_browse-bin_5&ds=v1%3AlF21mLzitZCEw3fqISpyTiKRAdPwkwodcNZrXTlkpbQ",
+        "refinement_display_name": "Flash Drive Capacity"
+      },
+      {
+        "name": "32GB",
+        "value": "n:3151491||p_n_size_browse-bin/1259716011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_size_browse-bin%3A1259716011&dc&qid=1685455475&rnid=1259751011&ref=sr_nr_p_n_size_browse-bin_6&ds=v1%3AqMcMjkRbHp5DDqDf3VsGiUeZH14TRxjLszxlDjt1K1s",
+        "refinement_display_name": "Flash Drive Capacity"
+      },
+      {
+        "name": "64GB",
+        "value": "n:3151491||p_n_size_browse-bin/10285016011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_size_browse-bin%3A10285016011&dc&qid=1685455475&rnid=1259751011&ref=sr_nr_p_n_size_browse-bin_7&ds=v1%3A3U9f7%2FxjbLwdLC6yXfCYGiX5%2Bi1icfccdhI7GnEQhnU",
+        "refinement_display_name": "Flash Drive Capacity"
+      },
+      {
+        "name": "128GB",
+        "value": "n:3151491||p_n_size_browse-bin/10285018011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_size_browse-bin%3A10285018011&dc&qid=1685455475&rnid=1259751011&ref=sr_nr_p_n_size_browse-bin_8&ds=v1%3APy8s0YGkQUc8%2Bhn8k1io4iGLhCf0x4J%2FGrcjivb%2FxyY",
+        "refinement_display_name": "Flash Drive Capacity"
+      },
+      {
+        "name": "512GB & Up",
+        "value": "n:3151491||p_n_size_browse-bin/10285020011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_size_browse-bin%3A10285020011&dc&qid=1685455475&rnid=1259751011&ref=sr_nr_p_n_size_browse-bin_9&ds=v1%3AOUrrUAJ7sVTN6%2FLea5nQR5SVwVSntdS6X6g3h3jT1ZM",
+        "refinement_display_name": "Flash Drive Capacity"
+      }
+    ],
+    "business_type": [
+      {
+        "name": "Small Business",
+        "value": "p_n_sb_certificate_id/98614993011",
+        "link": "https://www.amazon.com/s?k=usb&rh=p_n_sb_certificate_id%3A98614993011&dc&qid=1685455475&rnid=98614992011&ref=sr_nr_p_n_sb_certificate_id_1&ds=v1%3A5cvpM5oXShAIotcdafhB%2F0CAtpNa3fzL6Zomlf8qMVY",
+        "refinement_display_name": "Business Type"
+      }
+    ],
+    "special_features": [
+      {
+        "name": "Dust Proof",
+        "value": "n:3151491||p_n_feature_browse-bin/115246384011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_feature_browse-bin%3A115246384011&dc&qid=1685455475&rnid=37288785011&ref=sr_nr_p_n_feature_browse-bin_1&ds=v1%3A2a6SettgwLOWfO5syYklzRFddRdZUyjxEsP9D0tyYsQ",
+        "refinement_display_name": "Special Features"
+      },
+      {
+        "name": "Magnetic Proof",
+        "value": "n:3151491||p_n_feature_browse-bin/115246392011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_feature_browse-bin%3A115246392011&dc&qid=1685455475&rnid=37288785011&ref=sr_nr_p_n_feature_browse-bin_2&ds=v1%3A%2Bmew9v5EerV%2Fkl8Qm%2FX0RvvqsH0e%2FNQEN%2BEzVIf%2FAEU",
+        "refinement_display_name": "Special Features"
+      },
+      {
+        "name": "Shockproof",
+        "value": "n:3151491||p_n_feature_browse-bin/37288788011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_feature_browse-bin%3A37288788011&dc&qid=1685455475&rnid=37288785011&ref=sr_nr_p_n_feature_browse-bin_3&ds=v1%3AiFT6bEeCvXJpbcq9Ah2EoqEB3%2B48kpbUMtyURcrS6PQ",
+        "refinement_display_name": "Special Features"
+      },
+      {
+        "name": "Temperature Proof",
+        "value": "n:3151491||p_n_feature_browse-bin/115246394011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_feature_browse-bin%3A115246394011&dc&qid=1685455475&rnid=37288785011&ref=sr_nr_p_n_feature_browse-bin_4&ds=v1%3An%2FO1NcTzcFYIbYBBbu906NGAxkHbiQSoASWEObRsotw",
+        "refinement_display_name": "Special Features"
+      },
+      {
+        "name": "Water Resistant",
+        "value": "n:3151491||p_n_feature_browse-bin/37288789011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A3151491%2Cp_n_feature_browse-bin%3A37288789011&dc&qid=1685455475&rnid=37288785011&ref=sr_nr_p_n_feature_browse-bin_5&ds=v1%3ARRtZfA8EE8jhRgLhYVoKATL6h8pkw0v5CcrCIu1eq9s",
+        "refinement_display_name": "Special Features"
+      }
+    ],
+    "payment_plan": [
+      {
+        "name": "Layaway Eligible",
+        "value": "p_n_is_layaway_eligible/24003598011",
+        "link": "https://www.amazon.com/s?k=usb&rh=p_n_is_layaway_eligible%3A24003598011&dc&qid=1685455475&rnid=24003597011&ref=sr_nr_p_n_is_layaway_eligible_1&ds=v1%3AMaICg5LUsSIqd7ANd%2FaX1KIvanflklvcQAqza55FPMg",
+        "refinement_display_name": "Payment Plan"
+      }
+    ],
+    "new_arrivals": [
+      {
+        "name": "New Arrivals",
+        "value": "n:172282||p_n_date/1249033011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_n_date%3A1249033011&dc&qid=1685455475&rnid=1249031011&ref=sr_nr_p_n_date_1&ds=v1%3AwUPTIYGZj9kdg%2BuWsCRj8NTjrESFS8Lc0ev5y2mEvyE",
+        "refinement_display_name": "New Arrivals"
+      }
+    ],
+    "amazon_global_store": [
+      {
+        "name": "Amazon Global Store",
+        "value": "p_n_is-global-store-asin/16354393011",
+        "link": "https://www.amazon.com/s?k=usb&rh=p_n_is-global-store-asin%3A16354393011&dc&qid=1685455475&rnid=16354392011&ref=sr_nr_p_n_is-global-store-asin_1&ds=v1%3A0gptYXeWTHLAbwdM6ORtJ6NdNrnz5pwq5ouZ7ON1dl8",
+        "refinement_display_name": "Amazon Global Store"
+      }
+    ],
+    "international_shipping": [
+      {
+        "name": "International Shipping Eligible",
+        "value": "p_n_shipping_option-bin/3242350011",
+        "link": "https://www.amazon.com/s?k=usb&rh=p_n_shipping_option-bin%3A3242350011&dc&qid=1685455475&rnid=2944662011&ref=sr_nr_p_n_shipping_option-bin_1&ds=v1%3A7yIpIP%2FHNhLngtpfOrCFAOaORUZ3KKviHaxVhn%2Bzp7c",
+        "refinement_display_name": "International Shipping"
+      }
+    ],
+    "condition": [
+      {
+        "name": "New",
+        "value": "n:172282||p_n_condition-type/2224371011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_n_condition-type%3A2224371011&dc&qid=1685455475&rnid=2224369011&ref=sr_nr_p_n_condition-type_1&ds=v1%3AWU2qUvnH7oESmGw3xanUR9u4cyeubHZmKf4dsL%2FDakc",
+        "refinement_display_name": "Condition"
+      },
+      {
+        "name": "Used",
+        "value": "n:172282||p_n_condition-type/2224373011",
+        "link": "https://www.amazon.com/s?k=usb&rh=n%3A172282%2Cp_n_condition-type%3A2224373011&dc&qid=1685455475&rnid=2224369011&ref=sr_nr_p_n_condition-type_2&ds=v1%3At8c2mzUPWbaXFpTkxI2y0e238u01xBXgMkTdtSHUenI",
+        "refinement_display_name": "Condition"
+      }
+    ],
+    "availability": [
+      {
+        "name": "Include Out of Stock",
+        "value": "p_n_availability/2661601011",
+        "link": "https://www.amazon.com/s?k=usb&rh=p_n_availability%3A2661601011&dc&qid=1685455475&rnid=2661599011&ref=sr_nr_p_n_availability_2&ds=v1%3AiwCx5V7VO%2FJ7BX8xgJDRLAysPcvaJqXx6yprlenrj0U",
+        "refinement_display_name": "Availability"
+      }
+    ]
+  },
+  "ad_blocks": [
+    {
+      "campaign_id": "3311815460801",
+      "brand_logo": "https://m.media-amazon.com/images/S/advertising-assets-us-east-1-prod/83ebaa04-254c-498a-bcbc-e9d2bb90cb27._CR0,0,1159,400_SR218,200_.2-200x69",
+      "advertiser_id": "1023619940801",
+      "ad_id": "1023619940801",
+      "link": "https://aax-us-iad.amazon.com/x/c/REaUDT5QQOo2Ra9A6IffCUwAAAGIbPmTFQEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDEgICBvmZ13/https://www.amazon.com/stores/page/AE5D7CD1-6BC3-4384-8239-C2F2028BD735/?_encoding=UTF8&store_ref=SB_A06330082966RGCBOQX1E&pd_rd_plhdr=t&aaxitk=34b19bc4bfe582f0ee91c2539194178c&hsa_cr_id=8382382800901&lp_asins=B004RJ2TXQ%2CB0053Z5ZEI%2CB08QCVFCF3&lp_query=usb&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_mcd_bkgd&pd_rd_w=1RzqK&content-id=amzn1.sym.7dd77237-72be-4809-b5b5-d553eab7ad9d%3Aamzn1.sym.7dd77237-72be-4809-b5b5-d553eab7ad9d&pf_rd_p=7dd77237-72be-4809-b5b5-d553eab7ad9d&pf_rd_r=JNB7S4QXWF4ZR2VE1ANN&pd_rd_wg=k6Z2p&pd_rd_r=87f74f21-2064-4f17-9380-bf72e4be5ffc",
+      "title": "USB Copiers for Small Office, Home Office & Pros",
+      "store_link": "https://www.amazon.com/stores/page/AE5D7CD1-6BC3-4384-8239-C2F2028BD735/?_encoding=UTF8&store_ref=SB_A06330082966RGCBOQX1E&pd_rd_plhdr=t&aaxitk=34b19bc4bfe582f0ee91c2539194178c&hsa_cr_id=8382382800901&lp_asins=B004RJ2TXQ%2CB0053Z5ZEI%2CB08QCVFCF3&lp_query=usb&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_mcd_cta&pd_rd_w=1RzqK&content-id=amzn1.sym.7dd77237-72be-4809-b5b5-d553eab7ad9d%3Aamzn1.sym.7dd77237-72be-4809-b5b5-d553eab7ad9d&pf_rd_p=7dd77237-72be-4809-b5b5-d553eab7ad9d&pf_rd_r=JNB7S4QXWF4ZR2VE1ANN&pd_rd_wg=k6Z2p&pd_rd_r=87f74f21-2064-4f17-9380-bf72e4be5ffc",
+      "store_id": "AE5D7CD1-6BC3-4384-8239-C2F2028BD735",
+      "store_name": "Acumen Disc",
+      "products": [
+        {
+          "asin": "B004RJ2TXQ",
+          "link": "https://www.amazon.com/dp/B004RJ2TXQ",
+          "image": "https://m.media-amazon.com/images/I/61cV7DpL8IS._AC_SR180,120_QL70_.jpg",
+          "title": "Acumen Disc 1 to 7 USB Duplicator - Multiple Standard-A Flash Memory Card Copier & Sanitizer (DOD Compliant) System - 2.0/3.0 Digital Key Dongle/SSD/External Hard Drive Mass Storage",
+          "is_prime": true,
+          "rating": 5,
+          "ratings_total": 2
+        },
+        {
+          "asin": "B0053Z5ZEI",
+          "link": "https://www.amazon.com/dp/B0053Z5ZEI",
+          "image": "https://m.media-amazon.com/images/I/513SSo1ODqL._AC_SR180,120_QL70_.jpg",
+          "title": "Acumen Disc 1 to 47 CF Duplicator - Multiple CompactFlash/MicroDrives Compact Flash Drive Memory Card Reader/Copier (Up to 35mbps) with DOD Compliant Eraser"
+        },
+        {
+          "asin": "B08QCVFCF3",
+          "link": "https://www.amazon.com/dp/B08QCVFCF3",
+          "image": "https://m.media-amazon.com/images/I/61TRKh+DXbS._AC_SR180,120_QL70_.jpg",
+          "title": "Acumen Disc EZ Dupe 1 to 10 USB Duplicator with Touch Screen - Multiple Flash Drive Mass Storage Memory Card Copier (SOHO Series) DM-FU0-11V10TP",
+          "is_prime": true,
+          "rating": 5,
+          "ratings_total": 2
+        }
+      ]
+    }
+  ],
+  "video_blocks": [
+    {
+      "video_link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b3c5b056-7ec5-4b6d-9da8-d4b6055eacfe.mp4/productVideoOptimized.mp4",
+      "thumbnail_link": "https://d1f0esyb34c1g2.cloudfront.net/transcode/AssetLibrary/AssetLibrary/amzn1.assetlibrary.asset1.82c0d06f51000b83a5e81262bb47eb90:version_v1/5719c22e-4c97-4045-ad95-fb4933de08aa/1668411380728_THUMBNAIL-360P-FRAME-3-CAPTURE-2.0000001.jpg",
+      "campaign_id": "200029977372198",
+      "advertiser_id": "27496211602",
+      "has_audio": true,
+      "products": [
+        {
+          "asin": "B07FH7XJCD",
+          "link": "https://www.amazon.com/dp/B07FH7XJCD",
+          "image": "https://m.media-amazon.com/images/I/61XHVvynw4L._AC_UL640_QL65_.jpg",
+          "title": "BYEASY USB Hub,USB Splitter for Laptop,Multiport USB 3.0 Hub,Multi USB Port Expander,Fast Data Transfer 4 Port USB Hub Compatible with Windows PC, Mac, Printer, Mobile HDD",
+          "is_prime": true,
+          "rating": 4.5,
+          "ratings_total": 20570,
+          "price": {
+            "value": 13.99,
+            "currency": "USD",
+            "symbol": "$",
+            "raw": "13.99"
+          }
+        }
+      ]
+    }
+  ]
+}

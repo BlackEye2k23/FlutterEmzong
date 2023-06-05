@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004049291511",
+    "project_id": "eddy-552df",
+    "storage_bucket": "eddy-552df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004049291511:android:9744e51a320d9a9579dbf2",
+        "android_client_info": {
+          "package_name": "com.example.emazong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiIHT8iM43cOt2LzgVFT1RmcN1LL2sd3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,537 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 2,
+    "credits_remaining": 98,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "amazon_domain": "amazon.com",
+    "asin": "B0BPXVD6SC",
+    "currency": "usd",
+    "output": "json"
+  },
+  "request_metadata": {
+    "created_at": "2023-05-30T17:05:05.809Z",
+    "processed_at": "2023-05-30T17:05:42.808Z",
+    "total_time_taken": 37,
+    "amazon_url": "https://www.amazon.com/dp/B0BPXVD6SC?th=1&psc=1"
+  },
+  "product": {
+    "title": "Lucktiger 1TB USB Flash Drive | Waterproof Large Data Storage USB Memory Stick | High Speed Portable Jump Drive Pen Drive Come with Keychain Flash Drive,Thumb Drive",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "Lucktiger,1TB,USB,Flash,Drive,|,Waterproof,Large,Data,Storage,USB,Memory,Stick,|,High,Speed,Portable,Jump,Drive,Pen,Drive,Come,with,Keychain,Flash,Drive,Thumb,Drive",
+    "keywords_list": [
+      "Lucktiger",
+      "Flash",
+      "Drive",
+      "Waterproof",
+      "Large",
+      "Data",
+      "Storage",
+      "Memory",
+      "Stick",
+      "High",
+      "Speed",
+      "Portable",
+      "Jump",
+      "Drive",
+      "Drive",
+      "Come",
+      "with",
+      "Keychain",
+      "Flash",
+      "Drive",
+      "Thumb",
+      "Drive"
+    ],
+    "asin": "B0BPXVD6SC",
+    "link": "https://www.amazon.com/Lucktiger-Waterproof-Storage-Portable-Keychain/dp/B0BPXVD6SC",
+    "brand": "Lucktiger",
+    "protection_plans": [
+      {
+        "asin": "B00VF4OKXI",
+        "title": "2-year Photo and Data Recovery Plan",
+        "price": {
+          "symbol": "$",
+          "value": 3.99,
+          "currency": "USD",
+          "raw": "$3.99"
+        }
+      },
+      {
+        "asin": "B011WVRN8M",
+        "title": "3-year Photo and Data Recovery Plan",
+        "price": {
+          "symbol": "$",
+          "value": 4.99,
+          "currency": "USD",
+          "raw": "$4.99"
+        }
+      }
+    ],
+    "sell_on_amazon": true,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_aui_C_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_aui_C_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Data Storage",
+        "link": "https://www.amazon.com/Memory-Cards-External-Storage/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1292110011",
+        "category_id": "1292110011"
+      },
+      {
+        "name": "USB Flash Drives",
+        "link": "https://www.amazon.com/USB-Flash-Drives-Storage-Add-Ons/b/ref=dp_bc_aui_C_4?ie=UTF8&node=3151491",
+        "category_id": "3151491"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Data Storage > USB Flash Drives",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Brand: Lucktiger",
+      "link": "https://www.amazon.com/Lucktiger/b/ref=bl_dp_s_web_69513752011?ie=UTF8&node=69513752011&field-lbr_brands_browse-bin=Lucktiger"
+    },
+    "rating": 1,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "four_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "three_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "two_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "one_star": {
+        "percentage": 100,
+        "count": 1
+      }
+    },
+    "ratings_total": 1,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/510MONO6wvL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/510MONO6wvL._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/714anv2y2eL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71zZvZXXxBL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71Xnq9c7NQL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71ojnuedjzL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71+Hy4ZH7+L._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/717hpJ+btJL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      }
+    ],
+    "images_count": 7,
+    "images_flat": "https://m.media-amazon.com/images/I/510MONO6wvL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/714anv2y2eL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71zZvZXXxBL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71Xnq9c7NQL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71ojnuedjzL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71+Hy4ZH7+L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/717hpJ+btJL._AC_SL1500_.jpg",
+    "is_bundle": false,
+    "feature_bullets": [
+      "【SAFE AND STABLE】 - The high-quality 1TB USB flash drive metal outer structure protects chip, assembled through many complicated and strict processes, Lucktiger Flash Drives are provided with excellent performance in terms of resistance to water, magnetism, high temperature and X-rays",
+      "【PORTABLE AND LIGHTWEIGHT 】- Lucktiger Thumb Drive weigh only 10g. Instant storage for your laptops, tablets, TV’s, and more.No need to install any driver, just plug and play, flash drive save more time for your work",
+      "【BROAD COMPATIBILITY 】- Compatible with most systems such as Win XP/Vista/7/8/10, Linux, Mac OS X, etc., perfectly suit for your computer and other devices. The super speeds to save time when transferring, sharing or storing files, easy to share your work files",
+      "【LARGE CAPACITY 】- Fast way to add up to 1TB of storage to your device [1GB=1,000,000,000 bytes]",
+      "【RELIABLE GUARANTEE】 - Lucktiger Official promise the full refund or free replacement if you meet any issues with our products within 360 days. Just contact our after-sales service team. We also provide free technical support for life, if you have any confusion in use, please contact us"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "【RELIABLE GUARANTEE】 - Lucktiger Official promise the full refund or free replacement if you meet any issues with our products within 360 days. Just contact our after-sales service team. We also provide free technical support for life, if you have any confusion in use, please contact us. 【LARGE CAPACITY 】- Fast way to add up to 1TB of storage to your device [1GB=1,000,000,000 bytes]. 【BROAD COMPATIBILITY 】- Compatible with most systems such as Win XP/Vista/7/8/10, Linux, Mac OS X, etc., perfectly suit for your computer and other devices. The super speeds to save time when transferring, sharing or storing files, easy to share your work files. 【PORTABLE AND LIGHTWEIGHT 】- Lucktiger Thumb Drive weigh only 10g. Instant storage for your laptops, tablets, TV’s, and more.No need to install any driver, just plug and play, flash drive save more time for your work. 【SAFE AND STABLE】 - The high-quality 1TB USB flash drive metal outer structure protects chip, assembled through many complicated and strict processes, Lucktiger Flash Drives are provided with excellent performance in terms of resistance to water, magnetism, high temperature and X-rays.",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "Lucktiger"
+      },
+      {
+        "name": "Memory Storage Capacity",
+        "value": "1 TB"
+      },
+      {
+        "name": "Hardware Interface",
+        "value": "USB Type C, USB 2.0"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Portable,Waterproof"
+      },
+      {
+        "name": "Write Speed",
+        "value": "16 Megabytes Per Second"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "R15QVXF3IDSYVZ",
+        "title": "SLOW",
+        "body": "I have no idea if this is even the size it says that it is because it would take it at least 4 days straight upload a tb worth told stuffRead more",
+        "asin": "B0BPXVD6SC",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I have no idea if this is even the size it says that it is because it would take it at least 4 days straight upload a tb worth told stuff</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R15QVXF3IDSYVZ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0BPXVD6SC",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on May 27, 2023",
+          "utc": "2023-05-27T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Rodney Fisher",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AG5TM3UZJKITAQXRK4CIUMI7RIWQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG5TM3UZJKITAQXRK4CIUMI7RIWQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      }
+    ],
+    "additional_details": [
+      {
+        "name": "Verified by Transparency",
+        "value": "Each item has a unique code that we verify before shipping."
+      }
+    ],
+    "additional_details_flat": "Verified by Transparency: Each item has a unique code that we verify before shipping.",
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 3,
+        "hard_maximum": true
+      },
+      "is_prime": true,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "Monday, June 5",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, June 1",
+          "name": "Or fastest delivery Thursday, June 1. Order within 10 hrs 54 mins"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Munns le",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3OVCX4ZC3JVBR&asin=B0BPXVD6SC&ref_=dp_merchant_link",
+          "id": "A3OVCX4ZC3JVBR"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 25.99,
+        "currency": "USD",
+        "raw": "$25.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Brand",
+        "value": "‎Lucktiger"
+      },
+      {
+        "name": "Series",
+        "value": "‎LUCKTIGER FLASH DRIVE"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎LUCKTIGER001"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎1.58 ounces"
+      },
+      {
+        "name": "Package Dimensions",
+        "value": "‎3.94 x 2.6 x 0.59 inches"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "‎Lucktiger"
+      },
+      {
+        "name": "ASIN",
+        "value": "‎B0BPXVD6SC"
+      },
+      {
+        "name": "Date First Available",
+        "value": "‎December 13, 2022"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "1.0 1.0 out of 5 stars         1 rating          1.0 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#9 in USB Flash Drives"
+      },
+      {
+        "name": "Brand",
+        "value": "Lucktiger"
+      },
+      {
+        "name": "Memory Storage Capacity",
+        "value": "1 TB"
+      },
+      {
+        "name": "Hardware Interface",
+        "value": "USB Type C, USB 2.0"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Portable,Waterproof"
+      },
+      {
+        "name": "Write Speed",
+        "value": "16 Megabytes Per Second"
+      }
+    ],
+    "specifications_flat": "Write Speed: 16 Megabytes Per Second. Special Feature: Portable,Waterproof. Hardware Interface: USB Type C, USB 2.0. Memory Storage Capacity: 1 TB. Brand: Lucktiger. Best Sellers Rank: #9 in USB Flash Drives. Customer Reviews: 1.0 1.0 out of 5 stars         1 rating          1.0 out of 5 stars. Date First Available: ‎December 13, 2022. ASIN: ‎B0BPXVD6SC. Manufacturer: ‎Lucktiger. Package Dimensions: ‎3.94 x 2.6 x 0.59 inches. Item Weight: ‎1.58 ounces. Item model number: ‎LUCKTIGER001. Series: ‎LUCKTIGER FLASH DRIVE. Brand: ‎Lucktiger.",
+    "bestsellers_rank": [
+      {
+        "category": "USB Flash Drives",
+        "rank": 9,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/3151491/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "manufacturer": "‎Lucktiger",
+    "weight": "‎1.58 ounces",
+    "first_available": "‎December 13, 2022",
+    "model_number": "‎LUCKTIGER001",
+    "bestsellers_rank_flat": "Category: USB Flash Drives | Rank: 9"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 31.98,
+      "currency": "USD",
+      "raw": "$31.98"
+    },
+    "products": [
+      {
+        "asin": "B0BPXVD6SC",
+        "title": "Lucktiger 1TB USB Flash Drive | Waterproof Large Data Storage USB Memory Stick | High Speed Portable Jump Drive Pen Drive Come with Keychain Flash Drive,Thumb Drive",
+        "link": "https://www.amazon.com/dp/B0BPXVD6SC",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/510MONO6wvL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 25.99,
+          "currency": "USD",
+          "raw": "$25.99"
+        }
+      },
+      {
+        "asin": "B07RTMTV92",
+        "title": "Flash Drive Case USB Storage Case JBOS USB Holder Storage Bag for USB Flash Drive Electronic Accessories Organizer for USB Flash Drive, USB Case, Thumb Drive Caes, Jump Drive Case, USB Organizer",
+        "link": "https://www.amazon.com/dp/B07RTMTV92",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81AqU-cvj2L._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 5.99,
+          "currency": "USD",
+          "raw": "$5.99"
+        }
+      }
+    ]
+  },
+  "sponsored_products": [
+    {
+      "title": "corfurio 1TB Thumb Drive USB Flash Drive for Smartphone 4 in 1 Photo Stick Memory Stick 3.0 High Speed 1000GB Metal USB Drive External Storage for Computer Smartphone Laptop Android",
+      "asin": "B0C14FCBR4",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MDMxNzgzOTc3MDEwNjk3OjE2ODU0NjYzMzU6c3BfZGV0YWlsMjoyMDAxNzA3MDc4NzY0OTg6Ojo6&url=%2Fdp%2FB0C14FCBR4%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0C14FCBR4%26pd_rd_w%3DvJUM1%26content-id%3Damzn1.sym.0d1092dc-81bb-493f-8769-d5c802257e94%26pf_rd_p%3D0d1092dc-81bb-493f-8769-d5c802257e94%26pf_rd_r%3D1VQV2T4EPC4GPH7NDCTT%26pd_rd_wg%3D62WSh%26pd_rd_r%3D57fcbd7a-98a2-4186-91ee-823af2780775%26s%3Dpc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41Bn1bhvSWL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 76,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 44.99,
+        "currency": "USD",
+        "raw": "$44.99"
+      }
+    },
+    {
+      "title": "SCICNCE 1TB Photo Stick for iPhone Flash Drive, USB Memory Stick Thumb Drive External Storage Compatible with iPhone iPad Android Computer (Light Pink)",
+      "asin": "B0BZKVMDTV",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MDMxNzgzOTc3MDEwNjk3OjE2ODU0NjYzMzU6c3BfZGV0YWlsMjoyMDAxNTAxNzI4MjU2OTg6Ojo6&url=%2Fdp%2FB0BZKVMDTV%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0BZKVMDTV%26pd_rd_w%3DvJUM1%26content-id%3Damzn1.sym.0d1092dc-81bb-493f-8769-d5c802257e94%26pf_rd_p%3D0d1092dc-81bb-493f-8769-d5c802257e94%26pf_rd_r%3D1VQV2T4EPC4GPH7NDCTT%26pd_rd_wg%3D62WSh%26pd_rd_r%3D57fcbd7a-98a2-4186-91ee-823af2780775%26s%3Dpc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41YDwnWhqUL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 106,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 42.99,
+        "currency": "USD",
+        "raw": "$42.99"
+      }
+    },
+    {
+      "title": "Umeway Flash Drive 1TB Memory Stick USB Drive 1TB Portable Metal Thumb Drive with Keychain USB Flash Drives USB Stick 3.0 for PC Laptop Computer",
+      "asin": "B0C2V7YGV3",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MDMxNzgzOTc3MDEwNjk3OjE2ODU0NjYzMzU6c3BfZGV0YWlsMjoyMDAxNzMxMDQyNjc5OTg6Ojo6&url=%2Fdp%2FB0C2V7YGV3%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0C2V7YGV3%26pd_rd_w%3DvJUM1%26content-id%3Damzn1.sym.0d1092dc-81bb-493f-8769-d5c802257e94%26pf_rd_p%3D0d1092dc-81bb-493f-8769-d5c802257e94%26pf_rd_r%3D1VQV2T4EPC4GPH7NDCTT%26pd_rd_wg%3D62WSh%26pd_rd_r%3D57fcbd7a-98a2-4186-91ee-823af2780775%26s%3Dpc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41JlPyVgxkL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 97,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 19.99,
+        "currency": "USD",
+        "raw": "$19.99"
+      }
+    },
+    {
+      "title": "Sunany Flash Drive 512GB Thumb Drive USB Memory Stick High Speed External Storage USB Stick Photo Stick for Phone, Pad, Android, PC and More Devices (Gold)",
+      "asin": "B0BZWBB2S1",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MDMxNzgzOTc3MDEwNjk3OjE2ODU0NjYzMzU6c3BfZGV0YWlsMjoyMDAxNTEwNzIwMTAyOTg6Ojo6&url=%2Fdp%2FB0BZWBB2S1%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0BZWBB2S1%26pd_rd_w%3DvJUM1%26content-id%3Damzn1.sym.0d1092dc-81bb-493f-8769-d5c802257e94%26pf_rd_p%3D0d1092dc-81bb-493f-8769-d5c802257e94%26pf_rd_r%3D1VQV2T4EPC4GPH7NDCTT%26pd_rd_wg%3D62WSh%26pd_rd_r%3D57fcbd7a-98a2-4186-91ee-823af2780775%26s%3Dpc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41-IqlbwD2L._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 6389,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 42.99,
+        "currency": "USD",
+        "raw": "$42.99"
+      }
+    },
+    {
+      "title": "USB Flash Drive 512GB USB C Memory Stick Android Phone Photo Stick External Data Storage Thumb Drive Compatible Android Phone Pad MacBook USB C and Computer Silver 512G",
+      "asin": "B0C4NZVGN1",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MDMxNzgzOTc3MDEwNjk3OjE2ODU0NjYzMzU6c3BfZGV0YWlsMjoyMDAxNjkwNzQ0NDUzOTg6Ojo6&url=%2Fdp%2FB0C4NZVGN1%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0C4NZVGN1%26pd_rd_w%3DvJUM1%26content-id%3Damzn1.sym.0d1092dc-81bb-493f-8769-d5c802257e94%26pf_rd_p%3D0d1092dc-81bb-493f-8769-d5c802257e94%26pf_rd_r%3D1VQV2T4EPC4GPH7NDCTT%26pd_rd_wg%3D62WSh%26pd_rd_r%3D57fcbd7a-98a2-4186-91ee-823af2780775%26s%3Dpc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/314Nlc3DtyL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 34,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 32.97,
+        "currency": "USD",
+        "raw": "$32.97"
+      }
+    },
+    {
+      "title": "USB Flash Drive 1TB Fast Speed Thumb Drive 3.0 Large Storage USB Drive 1000GB Portable Hard Drive Metal Memory Stick Commonly Used for PC/Tablet/Laptop Data Transfer (Sliver)",
+      "asin": "B0C4LGCXFC",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MDMxNzgzOTc3MDEwNjk3OjE2ODU0NjYzMzU6c3BfZGV0YWlsMjoyMDAxNzIyNTMxMTk0OTg6Ojo6&url=%2Fdp%2FB0C4LGCXFC%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0C4LGCXFC%26pd_rd_w%3DvJUM1%26content-id%3Damzn1.sym.0d1092dc-81bb-493f-8769-d5c802257e94%26pf_rd_p%3D0d1092dc-81bb-493f-8769-d5c802257e94%26pf_rd_r%3D1VQV2T4EPC4GPH7NDCTT%26pd_rd_wg%3D62WSh%26pd_rd_r%3D57fcbd7a-98a2-4186-91ee-823af2780775%26s%3Dpc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31dDw-3U3oL._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 106,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 19.99,
+        "currency": "USD",
+        "raw": "$19.99"
+      }
+    },
+    {
+      "title": "USB Flash Drive 3 in 1 Thumb Drive USB 3.0 High Speed Memory Stick External Storage e Photo Stick Data Storage for Smartphone, PC, Computers and Tablets",
+      "asin": "B0C2KFHL21",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MDMxNzgzOTc3MDEwNjk3OjE2ODU0NjYzMzU6c3BfZGV0YWlsMjoyMDAxNzAwMzkzNDI2OTg6Ojo6&url=%2Fdp%2FB0C2KFHL21%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0C2KFHL21%26pd_rd_w%3DvJUM1%26content-id%3Damzn1.sym.0d1092dc-81bb-493f-8769-d5c802257e94%26pf_rd_p%3D0d1092dc-81bb-493f-8769-d5c802257e94%26pf_rd_r%3D1VQV2T4EPC4GPH7NDCTT%26pd_rd_wg%3D62WSh%26pd_rd_r%3D57fcbd7a-98a2-4186-91ee-823af2780775%26s%3Dpc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41sDNeubIpL._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 1,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 28.99,
+        "currency": "USD",
+        "raw": "$28.99"
+      }
+    },
+    {
+      "title": "iPhone Flash Drive 1TB iPhone Memory Stick, ALLBYTUSB 3.0 iPhoto Stick Thumb Drive External Storage USB Flash Drive Compatible with iPhone and iPad,Android and Computers -Black",
+      "asin": "B0BXJPZRYK",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MDMxNzgzOTc3MDEwNjk3OjE2ODU0NjYzMzU6c3BfZGV0YWlsMjoyMDAxNDAzNzc0MTI1OTg6Ojo6&url=%2Fdp%2FB0BXJPZRYK%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB0BXJPZRYK%26pd_rd_w%3DvJUM1%26content-id%3Damzn1.sym.0d1092dc-81bb-493f-8769-d5c802257e94%26pf_rd_p%3D0d1092dc-81bb-493f-8769-d5c802257e94%26pf_rd_r%3D1VQV2T4EPC4GPH7NDCTT%26pd_rd_wg%3D62WSh%26pd_rd_r%3D57fcbd7a-98a2-4186-91ee-823af2780775%26s%3Dpc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41V2b4gyTAL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 190,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 30.99,
+        "currency": "USD",
+        "raw": "$30.99"
+      }
+    },
+    {
+      "title": "2TB Swivel Memory Stick Large Capacity Thumb Drive 2TB Swivel USB Drive Jump Drive Data Storage Compatible with Computer/Laptop",
+      "asin": "B0BWD1F94B",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MDMxNzgzOTc3MDEwNjk3OjE2ODU0NjYzMzU6c3BfZGV0YWlsMjoyMDAxNDQyMDAyNjIzOTg6Ojo6&url=%2Fdp%2FB0BWD1F94B%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB0BWD1F94B%26pd_rd_w%3DvJUM1%26content-id%3Damzn1.sym.0d1092dc-81bb-493f-8769-d5c802257e94%26pf_rd_p%3D0d1092dc-81bb-493f-8769-d5c802257e94%26pf_rd_r%3D1VQV2T4EPC4GPH7NDCTT%26pd_rd_wg%3D62WSh%26pd_rd_r%3D57fcbd7a-98a2-4186-91ee-823af2780775%26s%3Dpc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31GKhLCd+jL._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 46,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 23.99,
+        "currency": "USD",
+        "raw": "$23.99"
+      }
+    },
+    {
+      "title": "64GB Thumb Drive, Spinning Memory Stick for Quick Data Transfer, Metal Drive with Keychain Design (Blue)",
+      "asin": "B0C3QY3PNK",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MDMxNzgzOTc3MDEwNjk3OjE2ODU0NjYzMzU6c3BfZGV0YWlsMjoyMDAxNjQ2ODgyMjc4OTg6Ojo6&url=%2Fdp%2FB0C3QY3PNK%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB0C3QY3PNK%26pd_rd_w%3DvJUM1%26content-id%3Damzn1.sym.0d1092dc-81bb-493f-8769-d5c802257e94%26pf_rd_p%3D0d1092dc-81bb-493f-8769-d5c802257e94%26pf_rd_r%3D1VQV2T4EPC4GPH7NDCTT%26pd_rd_wg%3D62WSh%26pd_rd_r%3D57fcbd7a-98a2-4186-91ee-823af2780775%26s%3Dpc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41o33pzqBfL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 6.99,
+        "currency": "USD",
+        "raw": "$6.99"
+      }
+    }
+  ]
+}
